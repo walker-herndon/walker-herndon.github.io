@@ -1,3 +1,3 @@
-# My Site
+### Obsidian Vault
 
-Placeholder README file to be updated
+Backup for all Obsidian notes, may also be used as a web page for accessing notes
