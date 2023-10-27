@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "smallHeaders"
+  ],
+  "baseFontSize": 18
+}

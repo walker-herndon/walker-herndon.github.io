@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "bb93ad7d9b32362c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bdf8666ba41ff35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf3da955f508560",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "850740b32dbcd3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmere Reading List.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65005a286be9152d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94695cc008bdd9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS5199.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bacfa46bdbd02e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 6 Meeting Minutes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2a28d5da4623f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 7 Meeting Minutes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6effa5ebe879ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a9d66ffe3bc7836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adff0489590c7ccc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5677f4ea70716b73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54b314e8ddf8abee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "2fd22079c75df0a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a882fdbed4510b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ca7edcfb52488b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cosmere Reading List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56ca6f3e004d9c11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cosmere Reading List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c3f8e55fd6226b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "822527ef57ee1a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cosmere Reading List.md"
+              }
+            }
+          },
+          {
+            "id": "72c2ef9ce695dbc4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "850740b32dbcd3e8",
+  "lastOpenFiles": [
+    "ObsidianGitHub",
+    "walker-herndon.github.io/README.md",
+    "Cosmere Reading List.md",
+    "walker-herndon.github.io/index.html",
+    "walker-herndon.github.io",
+    "anna-m.jpg",
+    "Arctic Charr Re-ID Coding Notes.md",
+    "CS5199.md",
+    "Week 7 Meeting Minutes.md",
+    "Supervisor Meeting Minutes.md",
+    "Week 6 Meeting Minutes.md",
+    "Week 5 Meeting Minutes.md",
+    "TV Watchlist.md",
+    "Bibliography.md",
+    "Context Survey - Sources & Notes.md",
+    "Context Survey Format.md",
+    "Week 3 Meeting Minutes.md",
+    "Week 2 Meeting Minutes.md",
+    "GPU PC Info.md",
+    "Test Note.md",
+    "CS.md",
+    "CS5055.md",
+    "2023-10-05.md",
+    "Context Survey Notes.md",
+    "Untitled 1.md"
+  ]
+}
