@@ -11,18 +11,10 @@
             "id": "2bf3da955f508560",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "850740b32dbcd3e8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere Reading List.md",
-                "mode": "preview",
+                "file": "Home.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -33,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "Week 7 Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmere Reading List.md"
+                "file": "Home.md"
               }
             }
           },
@@ -213,17 +204,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "850740b32dbcd3e8",
+  "active": "2bf3da955f508560",
   "lastOpenFiles": [
+    "style.css",
+    "Week 7 Meeting Minutes.md",
+    "Arctic Charr Re-ID Coding Notes.md",
+    "Home.md",
+    "walker-herndon.github.io.md",
+    "walker.herndon.github.io.md",
+    "().md",
+    "README.md",
+    "Cosmere Reading List.md",
     "ObsidianGitHub",
     "walker-herndon.github.io/README.md",
-    "Cosmere Reading List.md",
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
     "anna-m.jpg",
-    "Arctic Charr Re-ID Coding Notes.md",
     "CS5199.md",
-    "Week 7 Meeting Minutes.md",
     "Supervisor Meeting Minutes.md",
     "Week 6 Meeting Minutes.md",
     "Week 5 Meeting Minutes.md",
@@ -238,7 +235,6 @@
     "CS.md",
     "CS5055.md",
     "2023-10-05.md",
-    "Context Survey Notes.md",
-    "Untitled 1.md"
+    "Context Survey Notes.md"
   ]
 }
