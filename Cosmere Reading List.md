@@ -16,9 +16,9 @@ See [[TV Watchlist]] for TV list
 ##### Era 2
 - [ ] The Alloy of Law (#1)
 - [ ] Shadows of Self (#2)
+- [ ] Allomancer Jak and the Pits of Eltania (#2.5, Short Story)
 - [ ] The Bands of Mourning (#3)
 - [ ] The Lost Metal (#4)
-- [ ] Allomancer Jak and the Pits of Eltania (#1.5, Short Story)
 ##### Era 3
 TBD (2025?)
 
@@ -31,8 +31,8 @@ TBD (2025?)
 - [x] Oathbringer (#3)
 - [x] Dawnshard (#3.5, Novella)
 - [x] Rhythm of War (#4)
-- [ ] Horneater (#4.5, Novella) (2024)
-- [ ] Wind and Truth (#5) (November(?) 2024)
+- [ ] Horneater (#4.5, Novella) (2024 or 2025)
+- [ ] Wind and Truth (#5) (November 2024)
 
 ##### Era 2
 TBD
@@ -56,8 +56,8 @@ TBD
 	- The Emperor's Soul
 - Tress of the Emerald Sea
 - The Alloy of Law
-	- Allomancer Jak and the Pits of Eltania?  <br>(Unsure of spoilers for rest of Era 2)
 - Shadows of Self
+	- Allomancer Jak and the Pits of Eltania
 - The Bands of Mourning
 - The Lost Metal
 - Yumi and Nightmare Painter

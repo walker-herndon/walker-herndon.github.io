@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Cosmere Reading List.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cosmere Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Cosmere Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Cosmere Reading List.md"
               }
             }
           },
@@ -206,10 +206,10 @@
   },
   "active": "2bf3da955f508560",
   "lastOpenFiles": [
+    "Home.md",
     "style.css",
     "Week 7 Meeting Minutes.md",
     "Arctic Charr Re-ID Coding Notes.md",
-    "Home.md",
     "walker-herndon.github.io.md",
     "walker.herndon.github.io.md",
     "().md",
