@@ -35,3 +35,14 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- run a matching algorithm on the data
 	- Might make sense to just make a separate branch on GitHub for the library as I should probably remove the training code from it but still want everything version controlled
 	- Tentatively using [this medium article](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f) as a guide
+		- created `setup.py` for package `arctic_charr_matcher` (name not final)
+		- renamed `python_code/` to `arctic_charr_matcher/` (doesn't need to match package name afaik but just makes sense)
+		- added `__init__.py` to `arctic_charr_matcher/`
+		- fixed local imports to work with package (adding `__init__.py` makes the directory a package and messes the importing)
+		- updated some of the placeholder info in `setup.py`, some info still needs to be added<br><br>
+		- Still to do:
+			- update more info in `setup.py` including testing info and dependencies
+			- remove model training code and anything else unneeded for just matching
+			- create clear endpoints for use in the library
+			- set up testing directory with some tests (can be inspired from `tester.py`)
+			- follow rest of medium guide to create library
