@@ -28,3 +28,10 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- 
 
 ### Jupyter Notebook?
+- Goal is to try to turn the code into a library that can be imported into a notebook
+	- Then just use a few library functions to:
+		- import your data sets
+		- import your trained model
+		- run a matching algorithm on the data
+	- Might make sense to just make a separate branch on GitHub for the library as I should probably remove the training code from it but still want everything version controlled
+	- Tentatively using [this medium article](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f) as a guide

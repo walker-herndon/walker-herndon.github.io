@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Arctic Charr Re-ID Coding Notes.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "5d08d1e70d192610",
   "lastOpenFiles": [
+    "Home.md",
     "TV Watchlist.md",
     "Cosmere Reading List.md",
-    "Home.md",
     "CS5199.md",
     "Supervisor Meeting Minutes.md",
     "Week 8 Meeting Minutes.md",
