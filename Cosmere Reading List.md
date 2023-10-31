@@ -4,6 +4,7 @@ See [[TV Watchlist]] for TV list
 - [ ] Elantris **<-- Currently reading**
 - [ ] The Hope of Elantris (Short Story)
 - [ ] The Emperor's Soul (Novella)
+	- Don't need to read Elantris for this
 
 ---
 #### Mistborn

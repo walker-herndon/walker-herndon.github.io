@@ -4,7 +4,7 @@ See [[Cosmere Reading List]] for book list
 | Show                | Rating |
 | ------------------- | ------ |
 | Derry Girls         | 8.5    |
-| Ahsoka              | 7.7    | 
+| Ahsoka              | 7.7    |
 | Outlander           | 8.4    |
 | Rick and Morty      | 9.1    |
 | Mr. Robot           | 8.5    |

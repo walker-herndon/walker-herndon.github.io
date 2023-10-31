@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8bdf8666ba41ff35",
+        "id": "ceca695f37db1ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf3da955f508560",
+            "id": "5d08d1e70d192610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere Reading List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65005a286be9152d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 8 Meeting Minutes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94695cc008bdd9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS5199.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bacfa46bdbd02e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 6 Meeting Minutes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2a28d5da4623f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7 Meeting Minutes.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 8 Meeting Minutes.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 8 Meeting Minutes.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 8 Meeting Minutes.md"
+                "file": "Home.md"
               }
             }
           },
@@ -202,17 +153,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "65005a286be9152d",
+  "active": "5d08d1e70d192610",
   "lastOpenFiles": [
-    "Week 6 Meeting Minutes.md",
-    "Week 8 Meeting Minutes.md",
-    "Supervisor Meeting Minutes.md",
-    "Week 7 Meeting Minutes.md",
+    "TV Watchlist.md",
     "Cosmere Reading List.md",
     "Home.md",
+    "CS5199.md",
+    "Supervisor Meeting Minutes.md",
+    "Week 8 Meeting Minutes.md",
+    "Week 6 Meeting Minutes.md",
+    "Week 7 Meeting Minutes.md",
     "style.css",
     "Arctic Charr Re-ID Coding Notes.md",
     "walker-herndon.github.io.md",
@@ -224,9 +178,7 @@
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
     "anna-m.jpg",
-    "CS5199.md",
     "Week 5 Meeting Minutes.md",
-    "TV Watchlist.md",
     "Bibliography.md",
     "Context Survey - Sources & Notes.md",
     "Context Survey Format.md",
