@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7 Meeting Minutes.md",
+                "file": "Week 8 Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Week 8 Meeting Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Week 8 Meeting Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmere Reading List.md"
+                "file": "Week 8 Meeting Minutes.md"
               }
             }
           },
@@ -204,25 +205,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2bf3da955f508560",
+  "active": "65005a286be9152d",
   "lastOpenFiles": [
+    "Week 6 Meeting Minutes.md",
+    "Week 8 Meeting Minutes.md",
+    "Supervisor Meeting Minutes.md",
+    "Week 7 Meeting Minutes.md",
+    "Cosmere Reading List.md",
     "Home.md",
     "style.css",
-    "Week 7 Meeting Minutes.md",
     "Arctic Charr Re-ID Coding Notes.md",
     "walker-herndon.github.io.md",
     "walker.herndon.github.io.md",
     "().md",
     "README.md",
-    "Cosmere Reading List.md",
     "ObsidianGitHub",
     "walker-herndon.github.io/README.md",
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
     "anna-m.jpg",
     "CS5199.md",
-    "Supervisor Meeting Minutes.md",
-    "Week 6 Meeting Minutes.md",
     "Week 5 Meeting Minutes.md",
     "TV Watchlist.md",
     "Bibliography.md",
