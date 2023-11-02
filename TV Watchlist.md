@@ -12,6 +12,8 @@ See [[Cosmere Reading List]] for book list
 | The Legend of Korra | 8.4    |
 | Outer Banks         | 7.5    |
 | Attack on Titan     | 9.0    |
+| Invincible          | 8.7    |
+| Loki                | 8.2    | 
 
 ##### To Watch
 | Show                              | Rating |

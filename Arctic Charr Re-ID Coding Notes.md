@@ -42,7 +42,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- updated some of the placeholder info in `setup.py`, some info still needs to be added<br><br>
 		- Still to do:
 			- update more info in `setup.py` including testing info and dependencies
-			- remove model training code and anything else unneeded for just matching
+			- remove model training code and anything else unneeded for just matching **<-- currently working on**
 			- create clear endpoints for use in the library
 			- set up testing directory with some tests (can be inspired from `tester.py`)
 			- follow rest of medium guide to create library
