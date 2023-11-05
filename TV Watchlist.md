@@ -1,19 +1,20 @@
 See [[Cosmere Reading List]] for book list
 #### TV Series
 ##### Watching
-| Show                | Rating |
-| ------------------- | ------ |
-| Derry Girls         | 8.5    |
-| Ahsoka              | 7.7    |
-| Outlander           | 8.4    |
-| Rick and Morty      | 9.1    |
-| Mr. Robot           | 8.5    |
-| Euphoria            | 8.3    |
-| The Legend of Korra | 8.4    |
-| Outer Banks         | 7.5    |
-| Attack on Titan     | 9.0    |
-| Invincible          | 8.7    |
-| Loki                | 8.2    | 
+| Show                      | Rating |
+| ------------------------- | ------ |
+| Derry Girls               | 8.5    |
+| Ahsoka                    | 7.7    |
+| Outlander                 | 8.4    |
+| Rick and Morty            | 9.1    |
+| Mr. Robot                 | 8.5    |
+| Euphoria                  | 8.3    |
+| The Legend of Korra       | 8.4    |
+| Outer Banks               | 7.5    |
+| Attack on Titan           | 9.0    |
+| Invincible                | 8.7    |
+| Loki                      | 8.2    |
+| The Marvelous Mrs. Maisel | 8.7    | 
 
 ##### To Watch
 | Show                              | Rating |
@@ -39,7 +40,6 @@ See [[Cosmere Reading List]] for book list
 | The Handmaid's Tale               | 8.4    |
 | Fleabag                           | 8.7    |
 | It's Always Sunny in Philadelphia | 8.8    |
-| The Marvelous Mrs. Maisel         | 8.7    |
 | The Leftovers                     | 8.3    |
 | Silo                              | 8.1    |
 | Shrinking                         | 8.0    |
