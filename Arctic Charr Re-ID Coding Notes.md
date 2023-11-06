@@ -48,5 +48,5 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 			- create clear endpoints for use in the library
 			- add tests to `test_matcher.py`(can be inspired from `tester.py`)
 			- follow rest of medium guide to create library
-			- Do preliminary test from current implementation setting up new project for using library<br><br>
+			- Do preliminary test from current implementation setting up new project for using library once dependencies are sorted out<br><br>
 			- I think the general idea should be to create some endpoint functions that generally mirror a lot of the functionality in `tester.py`, maybe put in new file?
