@@ -39,10 +39,12 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- renamed `python_code/` to `arctic_charr_matcher/` (doesn't need to match package name afaik but just makes sense)
 		- added `__init__.py` to `arctic_charr_matcher/`
 		- fixed local imports to work with package (adding `__init__.py` makes the directory a package and messes the importing)
-		- updated some of the placeholder info in `setup.py`, some info still needs to be added<br><br>
+		- updated some of the placeholder info in `setup.py`, some info still needs to be added
+		- added `tests` directory with placeholder test, added test info to `setup.py`
+		- commented out training functions in `UnetExtractor.py`<br><br>
 		- Still to do:
-			- update more info in `setup.py` including testing info and dependencies
-			- remove model training code and anything else unneeded for just matching **<-- currently working on**
+			- update more info in `setup.py` – specifically dependencies
+			- any other code not needed for matching part of library?
 			- create clear endpoints for use in the library
-			- set up testing directory with some tests (can be inspired from `tester.py`)
+			- add tests to `test_matcher.py`(can be inspired from `tester.py`)
 			- follow rest of medium guide to create library
