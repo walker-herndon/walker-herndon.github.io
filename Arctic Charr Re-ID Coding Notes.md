@@ -53,11 +53,12 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- protect non-endpoint functions from use by end user?
 	- add tests to `test_matcher.py` after making endpoints
 	- further down the line but need some clear documentation for usage – currently image files need to have specific names and be in specifically named directories for stuff to work, which either needs to be changed or clearly documented
+		- If changed, would basically involve rewriting much of `DBUtil.py`
 
 ### Improved Documentation
 While working on turning into a library, started looking at improving documentation.
 
-#### DBUtil
+#### DBUtil.py
 - Used to take image directories and turn into dictionary in Python
 - dictionary called `images` indexed by `images[fileKey][key]`
 	- `fileKey` of format:
@@ -71,13 +72,25 @@ While working on turning into a library, started looking at improving documentat
 	- example: `"C21-2019-June-_IMG_3652"`
 	- `key` could be better named, basically key for various attributes of additional info for an image
 	- possible values for `key`: _add info about each_
-		- `img`: file path
-		- `mask`: 
+		- `img`
+		- `mask` 
 		- `maskLabel`
 		- `spotsLabel`
 		- `spots`
 		- `spotsJson`
 		- `precomp`
 		- `precompAA`
-	- often many of these values are `None`
+	- values are initialized to `None` then one is set to the file path, rest are left as `None`
+	- currently all images are jpegs and only `img` is set with rest left as `None`
+	- This is a way of labeling what kind of image each file is
+- function will default to looking in `["../all_images/", "results"]` where `all_images` is the regular jpeg images and results are presumably the masked images
+- only looks at a single cave number at a time, this is set to 21 in `tester.py`
+
+#### tester.py
+- trying to sort out exactly what the tester file does
+- starts by defining an enum for `RANSIC_AFFINE` and `MODIFIED_GROTH`
+- also defines a Json encoder which can handle some additional numpy values
+- sets cave and algorithm
+	- currently set to 21 and `RANSAC_AFFINE` respectively
+- prints `resultFilename` **<-- rename this**
 
