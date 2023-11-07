@@ -99,4 +99,10 @@ While working on turning into a library, started looking at improving documentat
 	- uses `DBUtil` to get `testingImages` and `databaseImages`
 		- `testingImages` come from cave previously set, `currentDir` year and month, and `rootDirs=["../all_images/", "patched/results"]`
 		- `databaseImages` come from same cave, `years=range(2012, prevDir[0]+1` (year + 1), same `rootDirs`
+	- also makes maps of fish tag to `keyPath` and reverse
+		- `keyPath` is `"C{cave}-{year}-{month}-{fileName}"`
+		- so for each `keyPath` there is one tag which is the tag for that fish
+		- and for each fish there is a list of `keyPath` for each file which is of that fish
+		- maps are made from same range as `databaseImages` uses (2012 to prev + 1)
+	- 
 
