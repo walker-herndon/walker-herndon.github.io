@@ -53,3 +53,31 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- protect non-endpoint functions from use by end user?
 	- add tests to `test_matcher.py` after making endpoints
 	- further down the line but need some clear documentation for usage – currently image files need to have specific names and be in specifically named directories for stuff to work, which either needs to be changed or clearly documented
+
+### Improved Documentation
+While working on turning into a library, started looking at improving documentation.
+
+#### DBUtil
+- Used to take image directories and turn into dictionary in Python
+- dictionary called `images` indexed by `images[fileKey][key]`
+	- `fileKey` of format:
+	```python
+	f"C{cave}-{year}-{month}-{fileName}"
+
+	# actual code:
+	fileKey = 
+	f"C{cave}-{str(year)}-{months[monthIdx]}-{fileComponents[0]}"
+	```
+	- example: `"C21-2019-June-_IMG_3652"`
+	- `key` could be better named, basically key for various attributes of additional info for an image
+	- possible values for `key`: _add info about each_
+		- `img`: file path
+		- `mask`: 
+		- `maskLabel`
+		- `spotsLabel`
+		- `spots`
+		- `spotsJson`
+		- `precomp`
+		- `precompAA`
+	- often many of these values are `None`
+
