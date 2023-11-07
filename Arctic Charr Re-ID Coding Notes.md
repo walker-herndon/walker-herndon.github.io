@@ -48,7 +48,8 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - Still to do:
 	- ensure there's nothing more to add to `setup.py`
 	- any other code not needed for matching part of library?
-		- don't need any of `tester.py`
+		- don't need any of `tester.py
+		- may not need some of `DBUtil`
 	- **create clear endpoints for use in the library**
 		- protect non-endpoint functions from use by end user?
 	- add tests to `test_matcher.py` after making endpoints
@@ -92,5 +93,10 @@ While working on turning into a library, started looking at improving documentat
 - also defines a Json encoder which can handle some additional numpy values
 - sets cave and algorithm
 	- currently set to 21 and `RANSAC_AFFINE` respectively
-- prints `resultFilename` **<-- rename this**
+- prints `resultFileName`
+- sets `prevDir` and `currentDir` as `[year, month]`
+- loops 15 times
+	- uses `DBUtil` to get `testingImages` and `databaseImages`
+		- `testingImages` come from cave previously set, `currentDir` year and month, and `rootDirs=["../all_images/", "patched/results"]`
+		- `databaseImages` come from same cave, `years=range(2012, prevDir[0]+1` (year + 1), same `rootDirs`
 
