@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "Supervisor Meetings/Supervisor Meeting Minutes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf35a7a9551db0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 9 Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "Week 9 Meeting Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "Week 9 Meeting Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md"
+                "file": "Week 9 Meeting Minutes.md"
               }
             }
           },
@@ -181,17 +194,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5d08d1e70d192610",
+  "active": "4bf35a7a9551db0a",
   "lastOpenFiles": [
+    "Supervisor Meetings/Supervisor Meeting Minutes.md",
+    "Week 9 Meeting Minutes.md",
     "Arctic Charr Re-ID Coding Notes.md",
+    "Cosmere Reading List.md",
     "Supervisor Meetings/Week 2 Meeting Minutes.md",
     "Supervisor Meetings",
-    "Cosmere Reading List.md",
     "TV Watchlist.md",
     "GPU PC Info.md",
     "Home.md",
     "CS5199.md",
-    "Supervisor Meetings/Supervisor Meeting Minutes.md",
     "Supervisor Meetings/Week 8 Meeting Minutes.md",
     "Supervisor Meetings/Week 6 Meeting Minutes.md",
     "Supervisor Meetings/Week 7 Meeting Minutes.md",
