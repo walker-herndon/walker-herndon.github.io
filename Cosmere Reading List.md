@@ -1,7 +1,7 @@
 **14/26 Read!** (8/16 Novels, 6/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
-- [ ] Elantris **<-- Currently reading**
+- [ ] Elantris **<-- Currently reading (~70% complete)**
 - [ ] The Hope of Elantris (Short Story)
 - [ ] The Emperor's Soul (Novella)
 	- Don't need to read Elantris for this

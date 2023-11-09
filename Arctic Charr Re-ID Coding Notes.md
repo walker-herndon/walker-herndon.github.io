@@ -54,7 +54,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- protect non-endpoint functions from use by end user?
 	- add tests to `test_matcher.py` after making endpoints
 	- further down the line but need some clear documentation for usage – currently image files need to have specific names and be in specifically named directories for stuff to work, which either needs to be changed or clearly documented
-		- If changed, would basically involve rewriting much of `DBUtil.py`
+		- If changed, would basically involve rewriting much of `DBUtil.py`, so best solution is probably to just leave it as is and clearly document it unless I have lots of extra time in the end.
 
 ### Improved Documentation
 While working on turning into a library, started looking at improving documentation.
@@ -106,3 +106,6 @@ While working on turning into a library, started looking at improving documentat
 		- maps are made from same range as `databaseImages` uses (2012 to prev + 1)
 	- 
 
+$$
+ab^2=x
+$$
