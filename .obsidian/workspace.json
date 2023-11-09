@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 9 Meeting Minutes.md",
+                "file": "Supervisor Meetings/Week 9 Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 9 Meeting Minutes.md",
+                "file": "Supervisor Meetings/Week 9 Meeting Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 9 Meeting Minutes.md",
+                "file": "Supervisor Meetings/Week 9 Meeting Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 9 Meeting Minutes.md"
+                "file": "Supervisor Meetings/Week 9 Meeting Minutes.md"
               }
             }
           },
@@ -194,10 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4bf35a7a9551db0a",
+  "active": "adff0489590c7ccc",
   "lastOpenFiles": [
     "Supervisor Meetings/Supervisor Meeting Minutes.md",
-    "Week 9 Meeting Minutes.md",
+    "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "Arctic Charr Re-ID Coding Notes.md",
     "Cosmere Reading List.md",
     "Supervisor Meetings/Week 2 Meeting Minutes.md",
