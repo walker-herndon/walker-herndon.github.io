@@ -1,4 +1,4 @@
-[[CS5199]]
+[[CS5199]] ^f9acc9
 
 **[GitHub Repo](https://github.com/walker-herndon/arctic-charr-packaged)**
 
@@ -106,6 +106,3 @@ While working on turning into a library, started looking at improving documentat
 		- maps are made from same range as `databaseImages` uses (2012 to prev + 1)
 	- 
 
-$$
-ab^2=x
-$$
