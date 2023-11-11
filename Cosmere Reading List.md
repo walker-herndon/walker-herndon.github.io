@@ -1,10 +1,9 @@
-**14/26 Read!** (8/16 Novels, 6/10 Other)
+**16/26 Read!** (9/16 Novels, 7/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
-- [ ] Elantris **<-- Currently reading (~70% complete)**
-- [ ] The Hope of Elantris (Short Story)
-- [ ] The Emperor's Soul (Novella)
-	- Don't need to read Elantris for this
+- [x] Elantris
+- [x] The Hope of Elantris (Short Story)
+- [ ] The Emperor's Soul (Novella) **<-- Currently Reading**
 
 ---
 #### Mistborn
@@ -52,9 +51,7 @@ TBD
 
 #### Potential Future Reading Order
 *Non-novels indented*
-- Elantris
-	- The Hope of Elantris
-	- The Emperor's Soul
+    - The Emperor's Soul
 - Tress of the Emerald Sea
 - The Alloy of Law
 - Shadows of Self
@@ -64,6 +61,8 @@ TBD
 - Yumi and Nightmare Painter
 	- White Sand Omnibus? Might be good to read before Sunlit Man
 - The Sunlit Man
-	- Horneater
-- Wind and Truth?
+- Wind and Truth
+	- Horneater [^1]
 
+
+[^1]: Order may change depending on Horneater release date
