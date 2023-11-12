@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmere Reading List.md"
+                "file": "Arctic Charr Re-ID Coding Notes.md"
               }
             }
           },
@@ -184,15 +183,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "362631e4b0fa7de8",
+  "active": "4bf35a7a9551db0a",
   "lastOpenFiles": [
+    "Cosmere Reading List.md",
     "Arctic Charr Re-ID Coding Notes.md",
     "GPU PC Info.md",
     "CS5199.md",
     "Bibliography.md",
     "TV Watchlist.md",
     "Supervisor Meetings/Supervisor Meeting Minutes.md",
-    "Cosmere Reading List.md",
     "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "Supervisor Meetings/Week 2 Meeting Minutes.md",
     "Supervisor Meetings",

@@ -104,5 +104,6 @@ While working on turning into a library, started looking at improving documentat
 		- so for each `keyPath` there is one tag which is the tag for that fish
 		- and for each fish there is a list of `keyPath` for each file which is of that fish
 		- maps are made from same range as `databaseImages` uses (2012 to prev + 1)
-	- 
+	- loops for each image in `testingImages`
+		- `potentialMatches` is a list of all images with the same tag as the current image in the loop ()
 
