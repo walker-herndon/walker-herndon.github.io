@@ -1,9 +1,9 @@
-**16/26 Read!** (9/16 Novels, 7/10 Other)
+**17/26 Read!** (9/16 Novels, 8/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
 - [x] Elantris
 - [x] The Hope of Elantris (Short Story)
-- [ ] The Emperor's Soul (Novella) **<-- Currently Reading**
+- [x] The Emperor's Soul (Novella)
 
 ---
 #### Mistborn
@@ -43,7 +43,7 @@ TBD
 - [x] Shadows for Silence in the Forests of Hell (Novella)
 - [x] Sixth of the Dusk (Novella)
 - [ ] White Sand Omnibus
-- [ ] Tress of the Emerald Sea (Secret Project #1)
+- [ ] Tress of the Emerald Sea (Secret Project #1) **<-- Currently Reading**
 - [ ] Yumi and the Nightmare Painter (Secret Project #3)
 - [ ] The Sunlit Man (Secret Project #4)
 
@@ -51,7 +51,6 @@ TBD
 
 #### Potential Future Reading Order
 *Non-novels indented*
-    - The Emperor's Soul
 - Tress of the Emerald Sea
 - The Alloy of Law
 - Shadows of Self
