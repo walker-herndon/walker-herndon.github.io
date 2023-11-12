@@ -89,6 +89,7 @@ While working on turning into a library, started looking at improving documentat
 
 #### tester.py
 - trying to sort out exactly what the tester file does
+- seems like a lot of what this is doing is what `Matcher` does
 - starts by defining an enum for `RANSIC_AFFINE` and `MODIFIED_GROTH`
 - also defines a Json encoder which can handle some additional numpy values
 - sets cave and algorithm
@@ -105,5 +106,11 @@ While working on turning into a library, started looking at improving documentat
 		- and for each fish there is a list of `keyPath` for each file which is of that fish
 		- maps are made from same range as `databaseImages` uses (2012 to prev + 1)
 	- loops for each image in `testingImages`
-		- `potentialMatches` is a list of all images with the same tag as the current image in the loop ()
+		- `potentialMatches` is a list of all images with the same tag as the current image in the loop
+			- used to compare to match found for testing the success of the matcher
+		- runs `findClosestMatch` from whatever algorithm is set (currently astroalign due to `RANSAC_AFFINE` being set)
+		- prints time taken to match, matches found, and potential matches
+	- prints time taken to process directory of images
+	- iterates to next directory
+- prints "Finished"
 
