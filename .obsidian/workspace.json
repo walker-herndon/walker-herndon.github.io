@@ -40,12 +40,13 @@
               "type": "markdown",
               "state": {
                 "file": "Cosmere Reading List.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "GPU PC Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "GPU PC Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md"
+                "file": "GPU PC Info.md"
               }
             }
           },
@@ -183,7 +184,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4bf35a7a9551db0a",
+  "active": "1988049c40e26524",
   "lastOpenFiles": [
     "Cosmere Reading List.md",
     "Arctic Charr Re-ID Coding Notes.md",

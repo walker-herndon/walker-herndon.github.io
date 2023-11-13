@@ -43,7 +43,7 @@ TBD
 - [x] Shadows for Silence in the Forests of Hell (Novella)
 - [x] Sixth of the Dusk (Novella)
 - [ ] White Sand Omnibus
-- [ ] Tress of the Emerald Sea (Secret Project #1) **<-- Currently Reading**
+- [ ] Tress of the Emerald Sea (Secret Project #1) **<-- Currently Reading (50%)**
 - [ ] Yumi and the Nightmare Painter (Secret Project #3)
 - [ ] The Sunlit Man (Secret Project #4)
 
