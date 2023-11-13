@@ -25,7 +25,6 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- changed `prevDir` to `[2019, "June"]` and `currentDir` to `[2019, "Aug"]`, both were 2012 previously
 	- changed for loop to only run one time, seems to normally run once per month and have only one month of data currently
 		- seems like the matching shouldn't be able to be done with only 1 month of data since it needs to match across months? May need to ask for more images to test on
-	- 
 
 ### Jupyter Notebook?
 - Goal is to try to turn the code into a library that can be imported into a notebook
@@ -33,6 +32,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- import your data sets
 		- import your trained model
 		- run a matching algorithm on the data
+	- *Future Walker*: don't think I need to add endpoints. Probably already in a good place as far as this goes using the Matcher class as is.
 - Might make sense to just make a separate branch on GitHub for the library as I should probably remove the training code from it but still want everything version controlled
 - Tentatively using [this medium article](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f) as a guide, all below steps use this guide
 - created new git branch `wh/convert-to-library`
@@ -46,18 +46,15 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - added `install_requires` list (required packages), may need to be updated more
 - **preliminary test:** made separate workspace with new venv, ran `pip install [wheelfile.whl]` and it successfully installed the library in the venv with all dependencies listed. Created `libtest.py` and imported library, successfully ran functions! <br><br>
 - Still to do:
-	- ensure there's nothing more to add to `setup.py`
 	- any other code not needed for matching part of library?
-		- don't need any of `tester.py
+		- don't need any of `tester.py`
 		- may not need some of `DBUtil`
-	- **create clear endpoints for use in the library**
-		- protect non-endpoint functions from use by end user?
-	- add tests to `test_matcher.py` after making endpoints
+	- add tests to `test_matcher.py`
 	- further down the line but need some clear documentation for usage – currently image files need to have specific names and be in specifically named directories for stuff to work, which either needs to be changed or clearly documented
 		- If changed, would basically involve rewriting much of `DBUtil.py`, so best solution is probably to just leave it as is and clearly document it unless I have lots of extra time in the end.
 
 ### Improved Documentation
-While working on turning into a library, started looking at improving documentation.
+While working on turning into a library, started looking at improving documentation. Below notes are covering what different parts of the code are doing, some of which isn't currently documented but should be.
 
 #### DBUtil.py
 - Used to take image directories and turn into dictionary in Python
