@@ -10,15 +10,13 @@
           {
             "id": "4bf35a7a9551db0a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Arctic Charr Re-ID Coding Notes.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
