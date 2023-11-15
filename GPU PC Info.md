@@ -2,10 +2,14 @@
 
 **Latest Update:**
 - Run `ssh gpu` and it will use the jump service and should work no matter what
-- In FileZilla the jump service is more complicated I think, still need to investigate, but can use the gpu pc configuration to connect from eduroam easily
+- For FileZilla:
+	- If on Eduroam just use the GPU PC configuration
+	- If outside uni network use GPU PC Local after running `ssh wjh1@jump.cs.st-andrews.ac.uk -L 2222:gpu-pc-12.cs.st-andrews.ac.uk:22 -N` (*TODO: should make alias for this*) 
 - To use Jupyter Notebook run `ssh gpu -L 8888:localhost:8888 -N` in another tab to set up an SSH proxy, then run Jupyter Notebook on the GPU machine and go to [localhost:8888/tree](localhost:8888/tree) and it should just work
 
 ----
+
+**Use Latest Update instead of below info**
 
 On eduroam run:
 ```zsh
@@ -33,4 +37,4 @@ https://wiki.cs.st-andrews.ac.uk/index.php?title=Version_Control_Examples#Creati
   
 Your home directory on the GPU PC is on the root volume SSD with just over 400GB of free capacity.   
   
-There is also a HDD in the system with **3.4TB** of free space. The path /data/**wjh1** is on the HDD.
+There is also a HDD in the system with **3.4TB** of free space. The path /data/**wjh1** is on the HDD. *Note: images are in /data/kt54/Photographs/*

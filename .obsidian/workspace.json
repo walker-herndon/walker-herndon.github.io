@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "90e712a88ea21a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPU PC Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "362631e4b0fa7de8",
             "type": "leaf",
             "pinned": true,
@@ -45,6 +33,14 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "a1596e1f45bb00a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-11-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,18 +178,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "362631e4b0fa7de8",
+  "active": "a1596e1f45bb00a2",
   "lastOpenFiles": [
+    "2023-11-15.md",
+    "CS5199.md",
+    "Supervisor Meetings/Supervisor Meeting Minutes.md",
+    "Supervisor Meetings/Week 12 Meeting Minutes.md",
+    "Supervisor Meetings/Week 11 Meeting Minutes.md",
+    "Supervisor Meetings/Week 10 Meeting Minutes.md",
+    "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "GPU PC Info.md",
     "Arctic Charr Re-ID Coding Notes.md",
-    "2023-11-15.md",
     "Cosmere Reading List.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
-    "CS5199.md",
     "Bibliography.md",
     "TV Watchlist.md",
-    "Supervisor Meetings/Supervisor Meeting Minutes.md",
-    "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "Supervisor Meetings/Week 2 Meeting Minutes.md",
     "Supervisor Meetings",
     "Home.md",
@@ -216,9 +211,6 @@
     "anna-m.jpg",
     "Supervisor Meetings/Week 5 Meeting Minutes.md",
     "Context Survey - Sources & Notes.md",
-    "Context Survey Format.md",
-    "Supervisor Meetings/Week 3 Meeting Minutes.md",
-    "Test Note.md",
-    "CS.md"
+    "Context Survey Format.md"
   ]
 }
