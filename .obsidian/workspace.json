@@ -10,29 +10,32 @@
           {
             "id": "1988049c40e26524",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPU PC Info.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "362631e4b0fa7de8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "2023-11-15.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmere Reading List.md"
+                "file": "Arctic Charr Re-ID Coding Notes.md"
               }
             }
           },
@@ -170,12 +173,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "362631e4b0fa7de8",
+  "active": "1988049c40e26524",
   "lastOpenFiles": [
     "GPU PC Info.md",
+    "2023-11-15.md",
+    "Cosmere Reading List.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
     "Arctic Charr Re-ID Coding Notes.md",
-    "Cosmere Reading List.md",
     "CS5199.md",
     "Bibliography.md",
     "TV Watchlist.md",
@@ -202,7 +206,6 @@
     "Context Survey Format.md",
     "Supervisor Meetings/Week 3 Meeting Minutes.md",
     "Test Note.md",
-    "CS.md",
-    "CS5055.md"
+    "CS.md"
   ]
 }

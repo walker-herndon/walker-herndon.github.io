@@ -1,5 +1,11 @@
 [[CS5199]]
 
+**Latest Update:**
+- Run `ssh gpu` and it will use the jump service and should work no matter what
+- In FileZilla the jump service is more complicated I think, still need to investigate, but can use the gpu pc configuration to connect from eduroam easily
+
+----
+
 On eduroam run:
 ```zsh
 ssh wjh1@gpu-pc-12.cs.st-andrews.ac.uk -i .ssh/cs_key
