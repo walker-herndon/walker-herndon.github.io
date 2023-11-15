@@ -3,6 +3,7 @@
 **Latest Update:**
 - Run `ssh gpu` and it will use the jump service and should work no matter what
 - In FileZilla the jump service is more complicated I think, still need to investigate, but can use the gpu pc configuration to connect from eduroam easily
+- To use Jupyter Notebook run `ssh gpu -L 8888:localhost:8888 -N` in another tab to set up an SSH proxy, then run Jupyter Notebook on the GPU machine and go to [localhost:8888/tree](localhost:8888/tree) and it should just work
 
 ----
 
