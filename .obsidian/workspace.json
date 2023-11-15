@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bf35a7a9551db0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1988049c40e26524",
             "type": "leaf",
             "state": {
@@ -43,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "Cosmere Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md",
+                "file": "Cosmere Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arctic Charr Re-ID Coding Notes.md"
+                "file": "Cosmere Reading List.md"
               }
             }
           },
@@ -181,11 +170,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4bf35a7a9551db0a",
+  "active": "362631e4b0fa7de8",
   "lastOpenFiles": [
     "GPU PC Info.md",
-    "Cosmere Reading List.md",
+    "Arctic Charr Re-ID Coding Notes copy.md",
     "Arctic Charr Re-ID Coding Notes.md",
+    "Cosmere Reading List.md",
     "CS5199.md",
     "Bibliography.md",
     "TV Watchlist.md",
@@ -213,7 +203,6 @@
     "Supervisor Meetings/Week 3 Meeting Minutes.md",
     "Test Note.md",
     "CS.md",
-    "CS5055.md",
-    "2023-10-05.md"
+    "CS5055.md"
   ]
 }
