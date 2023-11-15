@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Supervisor Meetings\"  ",
       "color": {
         "a": 1,
         "rgb": 5410784
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16280941
       }
     }
   ],

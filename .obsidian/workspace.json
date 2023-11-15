@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "362631e4b0fa7de8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "a1596e1f45bb00a2",
             "type": "leaf",
             "state": {
@@ -43,8 +29,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arctic Charr Re-ID Coding Notes.md"
+              }
             }
           },
           {
@@ -178,9 +167,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a1596e1f45bb00a2",
+  "active": "1988049c40e26524",
   "lastOpenFiles": [
-    "2023-11-15.md",
+    "Daily Notes/2023-11-15.md",
+    "Daily Notes",
+    "Arctic Charr Re-ID Coding Notes.md",
     "CS5199.md",
     "Supervisor Meetings/Supervisor Meeting Minutes.md",
     "Supervisor Meetings/Week 12 Meeting Minutes.md",
@@ -188,7 +179,6 @@
     "Supervisor Meetings/Week 10 Meeting Minutes.md",
     "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "GPU PC Info.md",
-    "Arctic Charr Re-ID Coding Notes.md",
     "Cosmere Reading List.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
     "Bibliography.md",
@@ -210,7 +200,6 @@
     "walker-herndon.github.io",
     "anna-m.jpg",
     "Supervisor Meetings/Week 5 Meeting Minutes.md",
-    "Context Survey - Sources & Notes.md",
-    "Context Survey Format.md"
+    "Context Survey - Sources & Notes.md"
   ]
 }

@@ -53,6 +53,11 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- further down the line but need some clear documentation for usage – currently image files need to have specific names and be in specifically named directories for stuff to work, which either needs to be changed or clearly documented
 		- If changed, would basically involve rewriting much of `DBUtil.py`, so best solution is probably to just leave it as is and clearly document it unless I have lots of extra time in the end.
 
+pip install:
+- keras-unet
+- matplotlib
+- 
+
 ### Improved Documentation
 While working on turning into a library, started looking at improving documentation. Below notes are covering what different parts of the code are doing, some of which isn't currently documented but should be.
 
