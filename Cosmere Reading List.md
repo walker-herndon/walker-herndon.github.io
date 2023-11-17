@@ -14,7 +14,7 @@ See [[TV Watchlist]] for TV list
 - [x] The Eleventh Metal (#1.5, Short Story)
 - [x] Secret History (#3.5 Novella)
 ##### Era 2
-- [ ] The Alloy of Law (#1)
+- [ ] The Alloy of Law (#1) **<-- Currently Reading**
 - [ ] Shadows of Self (#2)
 - [ ] Allomancer Jak and the Pits of Eltania (#2.5, Short Story)
 - [ ] The Bands of Mourning (#3)
