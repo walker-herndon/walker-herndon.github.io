@@ -44,19 +44,13 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - added `tests` directory with placeholder test, added test info to `setup.py`
 - commented out training functions in `UnetExtractor.py`
 - added `install_requires` list (required packages), may need to be updated more
-- **preliminary test:** made separate workspace with new venv, ran `pip install [wheelfile.whl]` and it successfully installed the library in the venv with all dependencies listed. Created `libtest.py` and imported library, successfully ran functions! <br><br>
+- **preliminary test:** made separate workspace with new venv, ran `pip install [wheelfile.whl]` and it successfully installed the library in the venv with all dependencies listed. Created `libtest.py` and imported library, successfully ran functions! <br>
+- Got ssh sorted out and jupyter notebook running on gpu pc and tunneled to local machine. Installed library in workspace on gpu pc, created jupyter notebook there which imports it
+- **notebook successfully uses matcher**<br>
 - Still to do:
 	- any other code not needed for matching part of library?
-		- don't need any of `tester.py`
-		- may not need some of `DBUtil`
+		- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
-	- further down the line but need some clear documentation for usage – currently image files need to have specific names and be in specifically named directories for stuff to work, which either needs to be changed or clearly documented
-		- If changed, would basically involve rewriting much of `DBUtil.py`, so best solution is probably to just leave it as is and clearly document it unless I have lots of extra time in the end.
-
-pip install:
-- keras-unet
-- matplotlib
-- 
 
 ### Improved Documentation
 While working on turning into a library, started looking at improving documentation. Below notes are covering what different parts of the code are doing, some of which isn't currently documented but should be.
@@ -77,7 +71,7 @@ While working on turning into a library, started looking at improving documentat
 	```
 	- example: `"C21-2019-June-IMG_3652"`
 	- `key` could be better named, basically key for various attributes of additional info for an image
-	- possible values for `key`: _add info about each_
+	- values for `key`:
 		- `img` - path to image file
 		- `mask` - path to mask file
 		- `maskLabel` - path to labelled mask file?
