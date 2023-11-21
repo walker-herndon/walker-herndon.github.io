@@ -8,25 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1988049c40e26524",
+            "id": "a1596e1f45bb00a2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Arctic Charr Re-ID Coding Notes.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "a1596e1f45bb00a2",
+            "id": "043255d3bece2111",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matcher Documentation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -41,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "Arctic Charr Re-ID Coding Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmere Reading List.md"
+                "file": "Arctic Charr Re-ID Coding Notes.md"
               }
             }
           },
@@ -180,9 +181,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "90daaad967320398",
+  "active": "a1596e1f45bb00a2",
   "lastOpenFiles": [
+    "Matcher Documentation.md",
     "Arctic Charr Re-ID Coding Notes.md",
+    "Cosmere Reading List.md",
     "Daily Notes/2023-11-15.md",
     "Daily Notes",
     "CS5199.md",
@@ -192,7 +195,6 @@
     "Supervisor Meetings/Week 10 Meeting Minutes.md",
     "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "GPU PC Info.md",
-    "Cosmere Reading List.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
     "Bibliography.md",
     "TV Watchlist.md",

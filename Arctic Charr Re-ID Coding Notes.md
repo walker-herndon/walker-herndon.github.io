@@ -61,6 +61,9 @@ pip install:
 ### Improved Documentation
 While working on turning into a library, started looking at improving documentation. Below notes are covering what different parts of the code are doing, some of which isn't currently documented but should be.
 
+#### Basic Overall Documentation for Library Usage
+![[Matcher Documentation]]
+
 #### DBUtil.py
 - Used to take image directories and turn into dictionary in Python
 - dictionary called `images` indexed by `images[fileKey][key]`
@@ -72,22 +75,20 @@ While working on turning into a library, started looking at improving documentat
 	fileKey = 
 	f"C{cave}-{str(year)}-{months[monthIdx]}-{fileComponents[0]}"
 	```
-	- example: `"C21-2019-June-_IMG_3652"`
+	- example: `"C21-2019-June-IMG_3652"`
 	- `key` could be better named, basically key for various attributes of additional info for an image
 	- possible values for `key`: _add info about each_
-		- `img`
-		- `mask` 
-		- `maskLabel`
-		- `spotsLabel`
-		- `spots`
-		- `spotsJson`
-		- `precomp`
-		- `precompAA`
-	- values are initialized to `None` then one is set to the file path, rest are left as `None`
-	- currently all images are jpegs and only `img` is set with rest left as `None`
-	- This is a way of labeling what kind of image each file is
-- function will default to looking in `["../all_images/", "results"]` where `all_images` is the regular jpeg images and results are presumably the masked images
-- only looks at a single cave number at a time, this is set to 21 in `tester.py`
+		- `img` - path to image file
+		- `mask` - path to mask file
+		- `maskLabel` - path to labelled mask file?
+		- `spotsLabel` - path to labelled spot file?
+		- `spots` - path to spot file
+		- `spotsJson` - path to spot json file
+		- `precomp` - path to cached astroalign data
+		- `precompAA` - path to cached groth matcher data
+	- values are initialized to `None` then set one by one by going through the files in `rootDirs`
+- function will default to looking in `["../all_images/", "results"]` where `all_images` is the regular jpeg images and `results` are  the mask images, spot images, and spot json files.
+- only looks at a single cave number at a time, this is set to 21 in `tester.py`, but could be any of the caves we have images for.
 
 #### tester.py
 - trying to sort out exactly what the tester file does
