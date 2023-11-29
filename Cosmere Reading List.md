@@ -1,4 +1,4 @@
-**18/26 Read!** (10/16 Novels, 8/10 Other)
+**20/26 Read!** (11/16 Novels, 9/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
 - [x] Elantris
@@ -14,9 +14,9 @@ See [[TV Watchlist]] for TV list
 - [x] The Eleventh Metal (#1.5, Short Story)
 - [x] Secret History (#3.5 Novella)
 ##### Era 2
-- [ ] The Alloy of Law (#1) **<-- Currently Reading**
-- [ ] Shadows of Self (#2)
-- [ ] Allomancer Jak and the Pits of Eltania (#2.5, Short Story)
+- [x] The Alloy of Law (#1)
+- [x] Allomancer Jak and the Pits of Eltania (#1.5, Short Story)
+- [ ] Shadows of Self (#2) **<-- Currently Reading**
 - [ ] The Bands of Mourning (#3)
 - [ ] The Lost Metal (#4)
 ##### Era 3
@@ -51,14 +51,13 @@ TBD
 
 #### Potential Future Reading Order
 *Non-novels indented*
-- The Alloy of Law
 - Shadows of Self
-	- Allomancer Jak and the Pits of Eltania
 - The Bands of Mourning
 - The Lost Metal
 - Yumi and Nightmare Painter
 	- White Sand Omnibus? Might be good to read before Sunlit Man
 - The Sunlit Man
+
 - Wind and Truth
 	- Horneater [^1]
 

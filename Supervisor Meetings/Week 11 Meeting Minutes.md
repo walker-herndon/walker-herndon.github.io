@@ -9,3 +9,12 @@
 - only difference is to use the code in that form there will need to be some form of UI since the user isn't writing any python at that point
 	- maybe this means I should look into the UI that was previously created now?
 - also still not handling the model training side of things at all so may want to look into that too
+
+
+**November 23rd**
+- had another meeting with Michael and Lizzy
+- showed current progress on tool which they were happy with
+- they think keeping it as a library is the best approach
+- should further work on library functions to make usage very straightforward for less technical people
+- improve documentation further to make installation very easy
+	- mostly means I need to extend documentation for setting up a virtual environment
