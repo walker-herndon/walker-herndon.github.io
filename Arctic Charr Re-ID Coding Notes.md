@@ -46,7 +46,8 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - added `install_requires` list (required packages), may need to be updated more
 - **preliminary test:** made separate workspace with new venv, ran `pip install [wheelfile.whl]` and it successfully installed the library in the venv with all dependencies listed. Created `libtest.py` and imported library, successfully ran functions! <br>
 - Got ssh sorted out and jupyter notebook running on gpu pc and tunneled to local machine. Installed library in workspace on gpu pc, created jupyter notebook there which imports it
-- **notebook successfully uses matcher**<br>
+- **notebook successfully uses matcher**
+- <br>
 - Still to do:
 	- any other code not needed for matching part of library?
 		- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
