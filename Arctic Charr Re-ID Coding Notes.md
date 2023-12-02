@@ -47,6 +47,9 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - **preliminary test:** made separate workspace with new venv, ran `pip install [wheelfile.whl]` and it successfully installed the library in the venv with all dependencies listed. Created `libtest.py` and imported library, successfully ran functions! <br>
 - Got ssh sorted out and jupyter notebook running on gpu pc and tunneled to local machine. Installed library in workspace on gpu pc, created jupyter notebook there which imports it
 - **notebook successfully uses matcher**
+- had some bugs to work out for both the groth and astroalign matchers but all working now
+- results aren't always great for groth matcher, but astroalign seems to have better top-5 accuracy
+- still some issues with both matchers; some images cause a divide-by-zero and result in a match score of 0 even when they are a match and should succeed. Needs to be fixed
 - <br>
 - Still to do:
 	- any other code not needed for matching part of library?
