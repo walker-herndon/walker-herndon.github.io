@@ -56,6 +56,13 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
 
+
+```json
+{'C21-2017-June-IMG_2237': [{'file_name': 'C21-2015-June-IMG_5709', 'ranking': 1, 'score': 0.009376434862548287}, {'file_name': 'C21-2015-Aug-IMG_7290', 'ranking': 2, 'score': 0.0027121956895524396}, {'file_name': 'C21-2015-June-IMG_5702', 'ranking': 3, 'score': 0.0026213852456635285}, {'file_name': 'C21-2015-Aug-IMG_7632', 'ranking': 4, 'score': 0.0020775396295537804}, {'file_name': 'C21-2015-June-IMG_4824', 'ranking': 5, 'score': 0.0019011805122776146}]}
+
+{'C21-2017-June-IMG_2237': [{'file_name': 'C21-2015-June-IMG_5702', 'ranking': 1, 'score': 0.0041202261511592364}, {'file_name': 'C21-2015-June-IMG_5708', 'ranking': 2, 'score': 0.0037350008192280656}, {'file_name': 'C21-2015-Aug-IMG_7632', 'ranking': 3, 'score': 0.0034512786643818667}, {'file_name': 'C21-2015-Aug-IMG_7275', 'ranking': 4, 'score': 0.001974934998816312}, {'file_name': 'C21-2015-June-IMG_5700', 'ranking': 5, 'score': 0.0019020857205210753}]}
+```
+
 ### Improved Documentation
 While working on turning into a library, started looking at improving documentation. Below notes are covering what different parts of the code are doing, some of which isn't currently documented but should be.
 
