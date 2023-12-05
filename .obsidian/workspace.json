@@ -24,13 +24,15 @@
           {
             "id": "043255d3bece2111",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Supervisor Meetings/Supervisor Meeting Minutes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -46,19 +48,19 @@
             }
           },
           {
-            "id": "0e4b0a5b57c0bc25",
+            "id": "f14a8128483f883c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matcher Documentation.md",
+                "file": "Supervisor Meetings/Week 13 Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supervisor Meetings/Supervisor Meeting Minutes.md",
+                "file": "Supervisor Meetings/Week 13 Meeting Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supervisor Meetings/Supervisor Meeting Minutes.md",
+                "file": "Supervisor Meetings/Week 13 Meeting Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supervisor Meetings/Supervisor Meeting Minutes.md"
+                "file": "Supervisor Meetings/Week 13 Meeting Minutes.md"
               }
             }
           },
@@ -196,11 +198,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "043255d3bece2111",
+  "active": "f14a8128483f883c",
   "lastOpenFiles": [
+    "Supervisor Meetings/Supervisor Meeting Minutes.md",
+    "Supervisor Meetings/Week 13 Meeting Minutes.md",
+    "Arctic Charr Re-ID Coding Notes.md",
     "Supervisor Meetings/Week 12 Meeting Minutes.md",
     "Matcher Documentation.md",
-    "Arctic Charr Re-ID Coding Notes.md",
     "Cosmere Reading List.md",
     "TV Watchlist.md",
     "Supervisor Meetings/Week 11 Meeting Minutes.md",
@@ -208,7 +212,6 @@
     "Daily Notes/2023-11-15.md",
     "Daily Notes",
     "CS5199.md",
-    "Supervisor Meetings/Supervisor Meeting Minutes.md",
     "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "GPU PC Info.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
@@ -229,7 +232,6 @@
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
     "anna-m.jpg",
-    "Supervisor Meetings/Week 5 Meeting Minutes.md",
-    "Context Survey - Sources & Notes.md"
+    "Supervisor Meetings/Week 5 Meeting Minutes.md"
   ]
 }
