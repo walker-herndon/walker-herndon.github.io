@@ -12,7 +12,7 @@ See [[Cosmere Reading List]] for book list
 | The Legend of Korra       | 8.4    | 40            |
 | Outer Banks               | 7.5    | watched 4     |
 | Attack on Titan           | 9.0    | watched S1    |
-| Invincible                | 8.7    | 5             |
+| Invincible                | 8.7    | 4             |
 | Loki                      | 8.2    | 6             |
 | The Marvelous Mrs. Maisel | 8.7    | watched 1     | 
 
