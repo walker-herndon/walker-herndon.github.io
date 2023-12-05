@@ -2,11 +2,13 @@
 - further looked into problems with matching
 	- some bugs with both astroalign and groth matchers
 	- fixed bug with astroalign sometimes having multiple spots at the exact same point, which when drawing triangles caused some to have side lengths of 0 causing divide-by-zero errors which broke everything and made the match fail. Now removes duplicate spots before doing any matching
-		- actually same bug exists in groth matcher, need to fix there too
+		- fixed in groth matcher too but haven't seen the duplicate spots come up there yet
+		- should ideally also make this just permanently remove the duplicate from the spot json file instead of just removing in-memory
 	- groth matcher has some other issue sometimes causing the match to fail when it seems like it shouldn't
-		- one issue is another divide-by-zero (may be caused by same thing as astroalign one with duplicate spots)
+		- one issue is another divide-by-zero, not from duplicate spots as still occurs with that fixed
 		- another is that it finds false negatives after seeming like it is matching at first
 			- matcher has this loop where it finds matches in triangles, then runs again only on the matched set to narrow down matches (fuzzy on details but this is the high level of it), on the first round it will find tons of matches on a photo that is an actual match, but then the second round it finds only 1 and then results in 0 matches at the end. Goes something like 37500 --> 1 --> 0 where others go more like 7000 --> 20 --> 1 when they shouldn't match at all. When I comment out the code that makes it loop and match again the results seem better? But definitely needs more investigation before leaving it like this as it could have a pretty significant affect on results.
+			- further testing says some true negatives do the same thing, cutting off the looping is definitely not a good solution, might just been that the groth matcher is just sometimes bad?
 	- another strange bug exists that when running the matcher in jupyter notebook one of the matches often crashes on the first run due to some divide-by-zero, and the results don't seem to be exactly right, then when running immediately again it works fine and gives better results. Something wrong with the caching or something? Results should always be consistent.
 	- regardless of bugs, astroalign is working now and seems to give better results than groth in general, especially the top-5 results.
 - expanded documentation for installation
@@ -15,6 +17,10 @@
 	- gives more detailed explanation for using in jupyter notebook
 	- still want to streamline the installation process with some sort of install script if possible and eventually potentially publish library to pip for easy access?
 - working on building out wrapper functions for the matching
-	- made some utility functions for converting from an image path to the key format used by the tool, or converting the key back to the image path (might not be needed)
+	- made utility function for converting from an image path to the key format used by the tool
+		- should make it easier to create a wrapper where the user can just pass in an image file to match and that can be converted into a key to pass to the matcher automatically
 	- need to figure out how exactly I want to approach wrapping the other functionality
 		- some of this depends on exactly what I find the best workflow to be once the matcher algorithms are in a good place
+			- like maybe run astroalign to get top 5 matches, then run groth to get top match? 
+			- Or maybe the workflow is to run astroalign to get top 5, then have another function to automatically display the top 5 matches alongside the query image for manual matching
+				- with this approach also think about displaying actual fish image vs spot image, or both?
