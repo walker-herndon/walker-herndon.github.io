@@ -1,8 +1,4 @@
 {
-  "obsidian-editor-shortcuts:duplicateLine": [],
-  "obsidian-editor-shortcuts:insertLineBelow": [],
-  "obsidian-editor-shortcuts:selectLine": [],
-  "editor:delete-paragraph": [],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -12,15 +8,6 @@
       "key": "C"
     }
   ],
-  "workspace:toggle-pin": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "obsidian-git:push2": [
     {
       "modifiers": [
@@ -28,6 +15,15 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
     }
   ]
 }
