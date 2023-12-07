@@ -31,7 +31,7 @@ TBD (2025?)
 - [x] Oathbringer (#3)
 - [x] Dawnshard (#3.5, Novella)
 - [x] Rhythm of War (#4)
-- [ ] Horneater (#4.5, Novella) (2024 or 2025)
+- [ ] Horneater (#4.5, Novella) (2025)
 - [ ] Wind and Truth (#5) (November 2024)
 
 ##### Era 2
