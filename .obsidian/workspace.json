@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TV Watchlist.md",
+                "file": "Cosmere Reading List.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TV Watchlist.md",
+                "file": "Cosmere Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TV Watchlist.md",
+                "file": "Cosmere Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TV Watchlist.md"
+                "file": "Cosmere Reading List.md"
               }
             }
           },
@@ -200,13 +200,13 @@
   },
   "active": "90daaad967320398",
   "lastOpenFiles": [
+    "TV Watchlist.md",
     "Cosmere Reading List.md",
-    "Supervisor Meetings/Week 13 Meeting Minutes.md",
-    "Supervisor Meetings/Supervisor Meeting Minutes.md",
     "Arctic Charr Re-ID Coding Notes.md",
+    "Supervisor Meetings/Supervisor Meeting Minutes.md",
+    "Supervisor Meetings/Week 13 Meeting Minutes.md",
     "Supervisor Meetings/Week 12 Meeting Minutes.md",
     "Matcher Documentation.md",
-    "TV Watchlist.md",
     "Supervisor Meetings/Week 11 Meeting Minutes.md",
     "Supervisor Meetings/Week 10 Meeting Minutes.md",
     "Daily Notes/2023-11-15.md",

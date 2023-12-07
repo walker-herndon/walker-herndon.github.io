@@ -1,4 +1,4 @@
-**20/26 Read!** (11/16 Novels, 9/10 Other)
+**21/26 Read!** (12/16 Novels, 9/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
 - [x] Elantris
@@ -16,8 +16,8 @@ See [[TV Watchlist]] for TV list
 ##### Era 2
 - [x] The Alloy of Law (#1)
 - [x] Allomancer Jak and the Pits of Eltania (#1.5, Short Story)
-- [ ] Shadows of Self (#2) **<-- Currently Reading**
-- [ ] The Bands of Mourning (#3)
+- [x] Shadows of Self (#2)
+- [ ] The Bands of Mourning (#3) **<-- Currently Reading**
 - [ ] The Lost Metal (#4)
 ##### Era 3
 TBD (2025?)
@@ -51,7 +51,6 @@ TBD
 
 #### Potential Future Reading Order
 *Non-novels indented*
-- Shadows of Self
 - The Bands of Mourning
 - The Lost Metal
 - Yumi and Nightmare Painter
