@@ -57,6 +57,11 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- algorithm
 	- verbose
 - this is already what is passed, but images are passed by key, want a nicer way to pass in the files without it being a 2 step process
+	- to get image we need either:
+		- file path
+		- key
+		- or cave, month, year, and file name
+	- also need to consider if we want a set of images—passing all file paths seems weird inconvenient
 - Still to do:
 	- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
