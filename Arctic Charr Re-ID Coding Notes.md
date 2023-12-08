@@ -61,7 +61,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- file path
 		- key
 		- or cave, month, year, and file name
-	- also need to consider if we want a set of images—passing all file paths seems weird inconvenient
+	- also need to consider if we want a set of images—passing all file paths seems weird and inconvenient
 - Still to do:
 	- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
