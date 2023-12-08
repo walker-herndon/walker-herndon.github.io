@@ -62,6 +62,10 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 		- key
 		- or cave, month, year, and file name
 	- also need to consider if we want a set of images—passing all file paths seems weird and inconvenient
+	- maybe best option is to still have something like `get_images()`, but just have it return the list of keys instead of compiling all the files. So you pass the cave, image path, and year range and that goes into the matcher
+		- could also have the `matching_img` arg be optional and also have optional cave, path, and year range args which will just call the `get_images()` function if provided instead
+	- **most important thing is just to have nice easy documentation for this, as long as the solution I use is reasonable to use and makes sense and is documented well it'll be fine**
+	- 
 - Still to do:
 	- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
