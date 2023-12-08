@@ -50,9 +50,15 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - had some bugs to work out for both the groth and astroalign matchers but all working now
 - results aren't always great for groth matcher, but astroalign seems to have better top-5 accuracy
 - still some issues with both matchers; some images cause a divide-by-zero and result in a match score of 0 even when they are a match and should succeed. Needs to be fixed<br>
+- Matching should pass:
+	- query images
+	- images to match against
+	- number of results to provide
+	- algorithm
+	- verbose
+- this is already what is passed, but images are passed by key, want a nicer way to pass in the files without it being a 2 step process
 - Still to do:
-	- any other code not needed for matching part of library?
-		- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
+	- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
 
 

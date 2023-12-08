@@ -42,19 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cosmere Reading List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f14a8128483f883c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supervisor Meetings/Week 13 Meeting Minutes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -201,8 +189,10 @@
   "lastOpenFiles": [
     "Cosmere Reading List.md",
     "TV Watchlist.md",
-    "Arctic Charr Re-ID Coding Notes.md",
+    "Week 15 Meeting Minutes.md",
     "Supervisor Meetings/Supervisor Meeting Minutes.md",
+    "Week 14 Meeting Minutes.md",
+    "Arctic Charr Re-ID Coding Notes.md",
     "Supervisor Meetings/Week 13 Meeting Minutes.md",
     "Supervisor Meetings/Week 12 Meeting Minutes.md",
     "Matcher Documentation.md",
@@ -227,10 +217,8 @@
     "().md",
     "README.md",
     "ObsidianGitHub",
-    "walker-herndon.github.io/README.md",
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
-    "anna-m.jpg",
-    "Supervisor Meetings/Week 5 Meeting Minutes.md"
+    "anna-m.jpg"
   ]
 }

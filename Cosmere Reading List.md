@@ -58,7 +58,4 @@ TBD
 - The Sunlit Man
 
 - Wind and Truth
-	- Horneater [^1]
-
-
-[^1]: Order may change depending on Horneater release date
+	- Horneater
