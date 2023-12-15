@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere Reading List.md",
-                "mode": "preview",
+                "file": "Supervisor Meetings/Week 14 Meeting Minutes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,12 +197,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4924902d8fdf49ab",
+  "active": "90daaad967320398",
   "lastOpenFiles": [
+    "Arctic Charr Re-ID Coding Notes.md",
+    "Bibliography.md",
+    "Supervisor Meetings/Week 5 Meeting Minutes.md",
+    "Supervisor Meetings/Supervisor Meeting Minutes.md",
     "Cosmere Reading List.md",
     "Supervisor Meetings/Week 14 Meeting Minutes.md",
-    "Supervisor Meetings/Supervisor Meeting Minutes.md",
-    "Arctic Charr Re-ID Coding Notes.md",
     "TV Watchlist.md",
     "Supervisor Meetings/Week 15 Meeting Minutes.md",
     "Supervisor Meetings/Week 13 Meeting Minutes.md",
@@ -216,7 +218,6 @@
     "Supervisor Meetings/Week 9 Meeting Minutes.md",
     "GPU PC Info.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
-    "Bibliography.md",
     "Supervisor Meetings/Week 2 Meeting Minutes.md",
     "Supervisor Meetings",
     "Home.md",
@@ -227,7 +228,6 @@
     "walker-herndon.github.io.md",
     "walker.herndon.github.io.md",
     "().md",
-    "README.md",
     "ObsidianGitHub",
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
