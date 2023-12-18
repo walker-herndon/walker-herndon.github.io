@@ -42,7 +42,7 @@ Here's what the file structure for the images needs to look like:
 %% Created with [tree.nathanfriend.io](https://tree.nathanfriend.io)%%
 
 ```
-└── images/  <-- This can be named whatever you chose
+└── images/
 	├── 2012_June/
 	│ ├── Cave1/
 	│ │ ├── IMG_001.JPG
