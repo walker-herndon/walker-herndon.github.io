@@ -9,9 +9,16 @@
 - Wednesday - graduation - (seafood ristorante dinner?) 
 - Thursday - fly home
 
-
+#### Gift
+- play a round at Balgove with Reed, Dad, and Bubba
+	- maybe girls can walk with us?
 - garden lunch party
+	- charcuterie board
 	- wine
-	- cheese
-	- crackers
-	- 
+	- maybe burgers or something?
+	- frisbee?
+- gin or whiskey distillery tour
+	- Darnley's Gin
+		- have a tour or gin making class
+	- Kingsbarns Distillery
+		- whiskey tour
