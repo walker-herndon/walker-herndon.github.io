@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80855fcae6269622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christmas Gift Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matcher Documentation.md",
+                "file": "Christmas Gift Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matcher Documentation.md",
+                "file": "Christmas Gift Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matcher Documentation.md"
+                "file": "Christmas Gift Plan.md"
               }
             }
           },
@@ -209,8 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3df3c257e434e9f3",
+  "active": "80855fcae6269622",
   "lastOpenFiles": [
+    "Matcher Documentation.md",
+    "Christmas Gift Plan.md",
     "Arctic Charr Re-ID Coding Notes.md",
     "Supervisor Meetings/Week 14 Meeting Minutes.md",
     "Bibliography.md",
@@ -221,7 +235,6 @@
     "Supervisor Meetings/Week 15 Meeting Minutes.md",
     "Supervisor Meetings/Week 13 Meeting Minutes.md",
     "Supervisor Meetings/Week 12 Meeting Minutes.md",
-    "Matcher Documentation.md",
     "Supervisor Meetings/Week 11 Meeting Minutes.md",
     "Supervisor Meetings/Week 10 Meeting Minutes.md",
     "Daily Notes/2023-11-15.md",
@@ -239,7 +252,6 @@
     "style.css",
     "walker-herndon.github.io.md",
     "walker.herndon.github.io.md",
-    "().md",
     "ObsidianGitHub",
     "walker-herndon.github.io/index.html",
     "walker-herndon.github.io",
