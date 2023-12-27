@@ -1,4 +1,4 @@
-**21/26 Read!** (12/16 Novels, 9/10 Other)
+**22/26 Read!** (13/16 Novels, 9/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
 - [x] Elantris
@@ -17,8 +17,8 @@ See [[TV Watchlist]] for TV list
 - [x] The Alloy of Law (#1)
 - [x] Allomancer Jak and the Pits of Eltania (#1.5, Short Story)
 - [x] Shadows of Self (#2)
-- [ ] The Bands of Mourning (#3) **<-- Currently Reading**
-- [ ] The Lost Metal (#4)
+- [x] The Bands of Mourning (#3)
+- [ ] The Lost Metal (#4) **<-- Currently Reading**
 ##### Era 3
 TBD (2025?)
 
@@ -31,7 +31,6 @@ TBD (2025?)
 - [x] Oathbringer (#3)
 - [x] Dawnshard (#3.5, Novella)
 - [x] Rhythm of War (#4)
-- [ ] Horneater (#4.5, Novella) (2025)
 - [ ] Wind and Truth (#5) (November 2024)
 
 ##### Era 2
@@ -51,11 +50,9 @@ TBD
 
 #### Potential Future Reading Order
 *Non-novels indented*
-- The Bands of Mourning
 - The Lost Metal
 - Yumi and Nightmare Painter
 	- White Sand Omnibus? Might be good to read before Sunlit Man
 - The Sunlit Man
 
 - Wind and Truth
-	- Horneater

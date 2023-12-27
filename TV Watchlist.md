@@ -14,7 +14,8 @@ See [[Cosmere Reading List]] for book list
 | Attack on Titan           | 9.0    | watched S1    |
 | Invincible                | 8.7    | 4             |
 | Loki                      | 8.2    | 6             |
-| The Marvelous Mrs. Maisel | 8.7    | watched 1     | 
+| The Marvelous Mrs. Maisel | 8.7    | watched 1     |
+| Blue Eye Samurai          | 8.8    | 4             | 
 
 ##### To Watch
 | Show                              | Rating |
