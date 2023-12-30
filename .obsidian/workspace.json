@@ -70,9 +70,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bbf7bc7856ba57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "113006b6a0303371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS5199/Matcher Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5199/Diss Format Notes.md",
+                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5199/Diss Format Notes.md",
+                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5199/Diss Format Notes.md"
+                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md"
               }
             }
           },
@@ -206,16 +230,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "82c7059e13555b2d",
+  "active": "2bbf7bc7856ba57c",
   "lastOpenFiles": [
-    "CS5199/Arctic Charr Re-ID Coding Notes.md",
-    "CS5199/Context Survey - Sources & Notes.md",
-    "CS5199/Context Survey Format.md",
-    "CS5199/Matcher Documentation.md",
     "CS5199/Diss Format Notes.md",
+    "CS5199/Matcher Documentation.md",
+    "CS5199/Context Survey - Sources & Notes.md",
+    "CS5199/Arctic Charr Re-ID Coding Notes.md",
+    "CS5199/Context Survey Format.md",
     "CS5199",
     "CS5199/Supervisor Meetings/Week 14 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 3 Meeting Minutes.md",

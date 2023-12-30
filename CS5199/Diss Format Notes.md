@@ -23,4 +23,8 @@ Design part format - don't think I'll use "design" and "implementation" sections
 - Transforming into library
 	- isolated matching component and converted to python library with `setup.py`
 - Improving usability and refactor
-	- 
+	- better and more options for `get_fish()`
+	- add `Fish` class instead of using dicts for everything
+	- don't require a strict file structure anymore because of this and don't use that key format anymore
+- add documentation for everything and installation instructions
+- installation script for easy installation
