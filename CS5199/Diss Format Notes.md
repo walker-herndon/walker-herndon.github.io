@@ -22,5 +22,5 @@ Design part format - don't think I'll use "design" and "implementation" sections
 	- talk about going through and improving comments and fixing lots of small issues to make it all smoother and more readable
 - Transforming into library
 	- isolated matching component and converted to python library with `setup.py`
-- Improving usability
+- Improving usability and refactor
 	- 
