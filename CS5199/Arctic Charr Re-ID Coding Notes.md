@@ -39,7 +39,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - created `setup.py` for package `arctic_charr_matcher` (name not final)
 - renamed `python_code/` to `arctic_charr_matcher/` (doesn't need to match package name afaik but just makes sense)
 - added `__init__.py` to `arctic_charr_matcher/`
-- fixed local imports to work with package (adding `__init__.py` makes the directory a package and messes the importing)
+- fixed local imports to work with package (adding `__init__.py` makes the directory a package and messes up the importing)
 - updated some of the placeholder info in `setup.py`, some info still needs to be added
 - added `tests` directory with placeholder test, added test info to `setup.py`
 - commented out training functions in `UnetExtractor.py`
