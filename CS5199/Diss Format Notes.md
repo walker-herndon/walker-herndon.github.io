@@ -20,9 +20,9 @@
 Design part format - don't think I'll use "design" and "implementation" sections, just break up all the components of the project
 - [x] Initial cleanup and improvements of the tool
 	- talk about going through and improving comments and fixing lots of small issues to make it all smoother and more readable
-- [ ] Running the code
+- [x] Running the code
 	- figuring out what the current process looks like and deciding what direction to go with it
-- [ ] Transforming into library
+- [x] Transforming into library
 	- isolated matching component and converted to python library with `setup.py`
 - [ ] Improving usability and refactor
 	- better and more options for `get_fish()`
