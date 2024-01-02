@@ -24,7 +24,7 @@ Design part format - don't think I'll use "design" and "implementation" sections
 	- figuring out what the current process looks like and deciding what direction to go with it
 - [x] Transforming into library
 	- isolated matching component and converted to python library with `setup.py`
-- [ ] Improving usability and refactor
+- [x] Improving usability and refactor
 	- better and more options for `get_fish()`
 	- add `Fish` class instead of using dicts for everything
 	- don't require a strict file structure anymore because of this and don't use that key format anymore
