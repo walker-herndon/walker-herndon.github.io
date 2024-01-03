@@ -1,6 +1,6 @@
 #### Instructions for installation
 
-You will need to have python and pip installed to use the library. You can check that these are installed by running `python —version` and `pip —version` in the terminal. Depending on how python was installed on your computer you might have to run `python3 —version` instead, and for any future python commands replace `python` with `python3`.
+You will need to have python and pip installed to use the library. You can check that these are installed by running `python --version` and `pip --version` in the terminal. Depending on how python was installed on your computer you might have to run `python3 --version` instead, and for any future python commands replace `python` with `python3`.
 
 1. Run `python setup.py bdist_wheel` to build the distribution file (stored in the `dist` directory).
 
