@@ -77,14 +77,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS5199/Matcher Documentation.md",
+                "file": "Daily Notes/2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md",
+                "file": "Daily Notes/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md",
+                "file": "Daily Notes/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5199/Arctic Charr Re-ID Coding Notes.md"
+                "file": "Daily Notes/2024-01-03.md"
               }
             }
           },
@@ -222,16 +222,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "82c7059e13555b2d",
+  "active": "113006b6a0303371",
   "lastOpenFiles": [
-    "CS5199/Diss Format Notes.md",
     "CS5199/Matcher Documentation.md",
+    "Daily Notes/2024-01-03.md",
+    "CS5199/GPU PC Info.md",
+    "CS5199/Arctic Charr Re-ID Coding Notes.md",
+    "CS5199/Diss Format Notes.md",
     "CS5199/Supervisor Meetings/Week 11 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 12 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 13 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 14 Meeting Minutes.md",
-    "CS5199/GPU PC Info.md",
-    "CS5199/Arctic Charr Re-ID Coding Notes.md",
     "CS5199/Supervisor Meetings/Week 7 Meeting Minutes.md",
     "CS5199/Context Survey - Sources & Notes.md",
     "CS5199/Context Survey Format.md",
@@ -252,7 +253,6 @@
     "CS5199/Supervisor Meetings/Week 9 Meeting Minutes.md",
     "Arctic Charr Re-ID Coding Notes copy.md",
     "CS5199/Supervisor Meetings",
-    "Home.md",
     "style.css",
     "ObsidianGitHub",
     "walker-herndon.github.io/index.html",
