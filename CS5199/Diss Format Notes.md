@@ -30,3 +30,6 @@ Design part format - don't think I'll use "design" and "implementation" sections
 	- don't require a strict file structure anymore because of this and don't use that key format anymore
 - [x] installation script for easy installation
 - [x] add documentation for everything and installation instructions
+
+
+Need to say something about why we didn't implement the UI that had been made and just went with the library
