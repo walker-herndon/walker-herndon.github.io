@@ -26,7 +26,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- changed for loop to only run one time, seems to normally run once per month and have only one month of data currently
 		- seems like the matching shouldn't be able to be done with only 1 month of data since it needs to match across months? May need to ask for more images to test on
 
-### Jupyter Notebook?
+### Jupyter Notebook
 - Goal is to try to turn the code into a library that can be imported into a notebook
 	- Then just use a few library functions to:
 		- import your data sets
@@ -69,6 +69,19 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 - Still to do:
 	- don't need any of `tester.py`, going to keep it around for now in case I want to reference it for anything (although it's in main if I ever need it)
 	- add tests to `test_matcher.py`
+
+### Publishing to PyPI
+- created an account on the TestPyPI instance
+- Recovery codes for TestPyPI:
+	- e8cd51d99480c837
+	- 13c6ab33a02047c0
+	- 231131782d6511ca
+	- db7d1f05f30c5bed
+	- 76c6d647e4c2ca90
+	- f594c42ac3a055b5
+	- b022011ae64472d9
+- api token for TestPyPI
+	- pypi-AgENdGVzdC5weXBpLm9yZwIkODYwZDVlYmQtODcwNy00ZjRmLWIxYmMtN2M5ZDVkNzIzN2U5AAIqWzMsIjZmYTUyYzI3LWEwMGUtNGRhYi04ZWZiLTZiYjA0Y2NmZWEwMCJdAAAGIA5qJozYl4IxJ9ogtpcFPR5iyJc7VwO94zbXRo1obDOU
 
 
 ```json
