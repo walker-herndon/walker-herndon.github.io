@@ -22,8 +22,8 @@ Fig1: always cite the source of a figure, if taken from another source. Figures 
 p11: try to avoid large empty blocks like this one.
 p11: "The SIFT algorithm actually struggles a bit with this..." -- do you have a source for this statement? It seems quite vague
 
-p13: "Original tool" is not a good title.
-p13: "developed by Groth" -- use full name, or if more than one author, "Groth et al."
+~~p13: "Original tool" is not a good title.~~
+~~p13: "developed by Groth" -- use full name, or if more than one author, "Groth et al."~~
 
 ~~p17: The line spacing changes half-way through this page, starting with "There are several..."~~
 
@@ -51,12 +51,12 @@ A before-after comparison of the process would be useful here. Maybe a couple of
 
 I am not sure that page 22 is the right place to discuss the matching problems. I think that you are describing this in chronological order -- how you discovered these issues and when you addressed them, but the matching problem is quite separate from the library packaging and refactoring. Even if it was the refactoring that led you to find and fix the problem. I would focus on the bugs together with other bug fixes and cleaning-up work (separate chapter preceding this one), and focus on the software engineering aspects in this chapter (library design, API design, class hierarchy design, etc.) This focuses each chapter on a related set of issues, making it easier for the reader because they do not need the entire picture at all times. You can always cross-reference here and say that this bug was discovered during the refactoring process (which will be described in Sec x.x...) or similar.
 
-p22: "you can simply create..." --> "one can simply create" or "a virtual environment can be created..."
-p22 "provided to you" -- ditto: "provided" is enough
+~~p22: "you can simply create..." --> "one can simply create" or "a virtual environment can be created..."~~
+~~p22 "provided to you" -- ditto: "provided" is enough~~
 
-p24: "isn't good coding practice to use dictionaries for this purpose" -- one could argue that this is not the fault of dictionaries as such, but the way the keys encode information in strings. So it's good to explain this point (and how the original approach works) in detail, explain why it was done this way (original work focused on matching algorithm, with organisation of data an afterthought), and why an object-oriented approach would be a better fit.
+p24: "isn't good coding practice to use dictionaries for this purpose" -- one could argue that this is not the fault of dictionaries as such, but the way the keys encode information in strings. So it's good to explain this point (and how the original approach works) in detail, explain why it was done this way (original work focused on matching algorithm, with organization of data an afterthought), and why an object-oriented approach would be a better fit.
 
-p24: "The first step was to create a Fish class" -- you are again telling a story in chronological order here. I would argue that the first step would be to zoom out and decide on a new organisation of code based on OOP principles. You can then show the UML diagram and describe individual components, i.e., a top-down approach. Then explain what the Fish class does (and others).
+p24: "The first step was to create a Fish class" -- you are again telling a story in chronological order here. I would argue that the first step would be to zoom out and decide on a new organization of code based on OOP principles. You can then show the UML diagram and describe individual components, i.e., a top-down approach. Then explain what the Fish class does (and others).
 
 p24: "Figure 14 shows a simplified UML diagram..." -- why simplified? Why not show the full UML diagram if documentation and refactoring are main contributions? If you mean that only minor methods like getters and setters are missing, then it's OK to state this in the caption without making the diagram sound incomplete in the main text.
 
