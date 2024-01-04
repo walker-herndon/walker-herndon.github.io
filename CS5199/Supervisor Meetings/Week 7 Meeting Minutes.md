@@ -10,9 +10,3 @@ Meeting Tuesday due to Kasim's schedule
 - Made Python virtual environment to sort out dependencies and got all installed
 - Now just need to actually run the code and see what that process looks like
 - Also meeting Tuesday next week due to Kasim's schedule, should be back to normal after that?
-
-
-$2,879
-£2,969 ($3,766)
-
-$887 difference

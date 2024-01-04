@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5199/Supervisor Meetings/Week 7 Meeting Minutes.md",
+                "file": "CS5199/Kasim Diss Comments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5199/Supervisor Meetings/Week 7 Meeting Minutes.md",
+                "file": "CS5199/Kasim Diss Comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5199/Supervisor Meetings/Week 7 Meeting Minutes.md"
+                "file": "CS5199/Kasim Diss Comments.md"
               }
             }
           },
@@ -222,8 +222,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "82c7059e13555b2d",
+  "active": "58571159c1d837b9",
   "lastOpenFiles": [
+    "Pasted image 20240104174037.png",
+    "CS5199/Supervisor Meetings/Week 7 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 6 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 5 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 3 Meeting Minutes.md",
@@ -237,7 +239,6 @@
     "CS5199/Supervisor Meetings/Week 12 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 13 Meeting Minutes.md",
     "CS5199/Supervisor Meetings/Week 14 Meeting Minutes.md",
-    "CS5199/Supervisor Meetings/Week 7 Meeting Minutes.md",
     "CS5199/Context Survey - Sources & Notes.md",
     "CS5199/Context Survey Format.md",
     "CS5199",
@@ -251,7 +252,6 @@
     "CS5199/Supervisor Meetings/Week 10 Meeting Minutes.md",
     "Daily Notes/2023-11-15.md",
     "Daily Notes",
-    "CS5199.md",
     "CS5199/Supervisor Meetings",
     "style.css",
     "ObsidianGitHub",
