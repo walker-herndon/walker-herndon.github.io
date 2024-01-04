@@ -1,23 +1,23 @@
 
-Title: instead of "Improving on Tool", you should mention the software engineering aspects. Redesign, or refactoring, or similar.
+~~Title: instead of "Improving on Tool", you should mention the software engineering aspects. Redesign, or refactoring, or similar.~~
 
-Abstract: re-ID is usually done via hardware tags, not photos. It is only when tags get lost that this becomes tedious. Also, tags do not catch new specimens. So it would be good to quickly mention this (Ignacy did so in his paper)/
+~~Abstract: re-ID is usually done via hardware tags, not photos. It is only when tags get lost that this becomes tedious. Also, tags do not catch new specimens. So it would be good to quickly mention this (Ignacy did so in his paper)/~~
 
-You also did not specify which tool you are working on. Be more specific -- a matching tool was previously developed in the School and used in trials, but was difficult to use and deploy by experts. Your project is the re-working and reorganising of this particular tool.
+~~You also did not specify which tool you are working on. Be more specific -- a matching tool was previously developed in the School and used in trials, but was difficult to use and deploy by experts. Your project is the re-working and reorganizing of this particular tool.~~
 
 Introduction: this starts well, but could do with a few references. You mention various tools and should refer to them already here (even though this is coming later, in the context survey), and when you make statements that are general and outside your field (e.g., problems with tags), it is also good to add a reference.
 
 
 
-Fig1: always cite the source of a figure, if taken from another source. Figures would ideally be at the top of the page (sometimes on the bottome), not in the middle of the page.
+Fig1: always cite the source of a figure, if taken from another source. Figures would ideally be at the top of the page (sometimes on the bottom), not in the middle of the page.
 
-p5: no need to explain the meaning of primary and secondary objectives. 
+~~p5: no need to explain the meaning of primary and secondary objectives.~~ 
 
-p7: "Database Assisted" -- this list needs an introduction, for example: "Computer vision-based methods can be divided into the following types: ..."
+~~p7: "Database Assisted" -- this list needs an introduction, for example: "Computer vision-based methods can be divided into the following types: ..."~~
 
-p7: "who published in the same journal" -- this is confusing and I don't think it's needed. Or at least name the journal.
+~~p7: "who published in the same journal" -- this is confusing and I don't think it's needed. Or at least name the journal.~~
 
-p7: "you could search the database" -> "one could search the database", avoid addressing the reader directly as "you"
+~~p7: "you could search the database" -> "one could search the database", avoid addressing the reader directly as "you"~~
 
 p11: try to avoid large empty blocks like this one.
 p11: "The SIFT algorithm actually struggles a bit with this..." -- do you have a source for this statement? It seems quite vague
@@ -25,7 +25,7 @@ p11: "The SIFT algorithm actually struggles a bit with this..." -- do you have a
 p13: "Original tool" is not a good title.
 p13: "developed by Groth" -- use full name, or if more than one author, "Groth et al."
 
-p17: The line spacing changes half-way through this page, starting with "There are several..."
+~~p17: The line spacing changes half-way through this page, starting with "There are several..."~~
 
 The context survey is good, but you should start it with a brief summary of what the chapter is about, and end with a brief recap of the most important information you have presented and how this influenced your design
 
