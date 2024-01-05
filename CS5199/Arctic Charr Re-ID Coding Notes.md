@@ -82,6 +82,17 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- b022011ae64472d9
 - api token for TestPyPI
 	- pypi-AgENdGVzdC5weXBpLm9yZwIkODYwZDVlYmQtODcwNy00ZjRmLWIxYmMtN2M5ZDVkNzIzN2U5AAIqWzMsIjZmYTUyYzI3LWEwMGUtNGRhYi04ZWZiLTZiYjA0Y2NmZWEwMCJdAAAGIA5qJozYl4IxJ9ogtpcFPR5iyJc7VwO94zbXRo1obDOU
+- Created account on PyPI
+- Recovery codes for PyPI:
+	- 33543ad0bbae1d77
+	- 639803e50400e0cc
+	- 113d0145304ad13f
+	- 23076c585364678f
+	- 16ef18edf7115e97
+	- 8dba864ee510b6d8
+	- 7dd8ea0465f64e3d
+- api token for PyPI
+	- 
 
 
 ```json
