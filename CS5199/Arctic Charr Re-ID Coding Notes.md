@@ -92,7 +92,7 @@ Discussed in [[Week 7 Meeting Minutes]], did formatting fixes along with getting
 	- 8dba864ee510b6d8
 	- 7dd8ea0465f64e3d
 - api token for PyPI
-	- 
+	- pypi-AgEIcHlwaS5vcmcCJDdhZjVlNGRlLWUwODctNGJkOS05NjRhLWUxMDEwOGIyMGE2NAACKlszLCI3OGI2MjJjOC01MWY2LTQ2NDgtYmQ5Yi02YTM0NWQwMjNjOTUiXQAABiAlj_dzjnGYmpnvWqLtiLbyxN0TNhc22xyZ3p4w08T-4Q
 
 
 ```json
