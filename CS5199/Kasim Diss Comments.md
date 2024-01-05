@@ -94,3 +94,17 @@ The evaluation currently only compares to the original objectives. What you want
 
 
 This diagram does not cover every single function in the code but includes all of the more significant functions. It is clear from this that the Matcher class is the primary component of the code. The matcher is used by creating a Matcher object, then calling the matching function with the query image and images to match against each passed in. The matching function will then use one of two matching algorithms depending on which one is selected—the Groth matcher, or Astroalign. Both of these matchers perform the matching based on the spot patterns on the fish. To do this accurately they perform the matching on versions of the images that have a mask applied to isolate the spots. A few steps must be taken to generate these “spot images”. First, another “mask image” must be created by the UnetMaskExtractor which isolates the fish in the original image. This mask image is used to crop the original image so anything on the edge of the image doesn’t interfere with the spot isolation. Finally, the UnetSpotExtractor is used on the cropped image to create the spot image.  An example of a mask image and spot image for the same fish is shown in figures 11 and 12.
+
+```python
+images = {"image key": {
+	"img":        "path/to/file",
+	"mask":       "path/to/file",
+	"maskLabel":  "path/to/file",
+	"spotsLabel": "path/to/file",
+	"spots":      "path/to/file",
+	"spotsJson":  "path/to/file",
+	"precomp":    "path/to/file",
+	"precompAA":  "path/to/file",
+}}
+```
+
