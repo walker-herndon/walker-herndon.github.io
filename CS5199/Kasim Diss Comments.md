@@ -58,7 +58,7 @@ p24: "isn't good coding practice to use dictionaries for this purpose" -- one co
 
 p24: "The first step was to create a Fish class" -- you are again telling a story in chronological order here. I would argue that the first step would be to zoom out and decide on a new organization of code based on OOP principles. You can then show the UML diagram and describe individual components, i.e., a top-down approach. Then explain what the Fish class does (and others).
 
-p24: "Figure 14 shows a simplified UML diagram..." -- why simplified? Why not show the full UML diagram if documentation and refactoring are main contributions? If you mean that only minor methods like getters and setters are missing, then it's OK to state this in the caption without making the diagram sound incomplete in the main text.
+~~p24: "Figure 14 shows a simplified UML diagram..." -- why simplified? Why not show the full UML diagram if documentation and refactoring are main contributions? If you mean that only minor methods like getters and setters are missing, then it's OK to state this in the caption without making the diagram sound incomplete in the main text.~~
 
 p25: "there was another issue which could be addressed" -- once again, you are describing this like a quest in Zelda :) One mission after another. What you want instead is to describe your contributions in the most organised way possible. The work described here addresses the way directory structure was hard-coded. It is good to mention this as a specific problem (subsection devoted to it) and describe how your new approach (shown in the UML diagram) changes this and improves it.
 
