@@ -54,17 +54,17 @@ I am not sure that page 22 is the right place to discuss the matching problems. 
 ~~p22: "you can simply create..." --> "one can simply create" or "a virtual environment can be created..."~~
 ~~p22 "provided to you" -- ditto: "provided" is enough~~
 
-p24: "isn't good coding practice to use dictionaries for this purpose" -- one could argue that this is not the fault of dictionaries as such, but the way the keys encode information in strings. So it's good to explain this point (and how the original approach works) in detail, explain why it was done this way (original work focused on matching algorithm, with organization of data an afterthought), and why an object-oriented approach would be a better fit.
+~~p24: "isn't good coding practice to use dictionaries for this purpose" -- one could argue that this is not the fault of dictionaries as such, but the way the keys encode information in strings. So it's good to explain this point (and how the original approach works) in detail, explain why it was done this way (original work focused on matching algorithm, with organization of data an afterthought), and why an object-oriented approach would be a better fit.~~
 
 p24: "The first step was to create a Fish class" -- you are again telling a story in chronological order here. I would argue that the first step would be to zoom out and decide on a new organization of code based on OOP principles. You can then show the UML diagram and describe individual components, i.e., a top-down approach. Then explain what the Fish class does (and others).
 
 ~~p24: "Figure 14 shows a simplified UML diagram..." -- why simplified? Why not show the full UML diagram if documentation and refactoring are main contributions? If you mean that only minor methods like getters and setters are missing, then it's OK to state this in the caption without making the diagram sound incomplete in the main text.~~
 
-p25: "there was another issue which could be addressed" -- once again, you are describing this like a quest in Zelda :) One mission after another. What you want instead is to describe your contributions in the most organised way possible. The work described here addresses the way directory structure was hard-coded. It is good to mention this as a specific problem (subsection devoted to it) and describe how your new approach (shown in the UML diagram) changes this and improves it.
+~~p25: "there was another issue which could be addressed" -- once again, you are describing this like a quest in Zelda :) One mission after another. What you want instead is to describe your contributions in the most organized way possible. The work described here addresses the way directory structure was hard-coded. It is good to mention this as a specific problem (subsection devoted to it) and describe how your new approach (shown in the UML diagram) changes this and improves it.~~
 
 Documentation also needs far more detail -- what technology, what was documented (classes, members, methods, etc.), give examples for each, give example of auto-generated HTML documentation (with further examples in the appendices), give an overview of how much new text you have added to the documentation, etc. At least a couple of pages are needed to do justice to the work you actually did.
 
-So I would re-organise Ch3 this along the following lines:
+So I would re-organize Ch3 this along the following lines:
 
 3 Cleaning and understanding the code
 3.1 Setting up existing code
@@ -107,6 +107,3 @@ images = {"image key": {
 	"precompAA":  "path/to/file",
 }}
 ```
-
-
-208 + 184 + 20 + 99 + 842 + 5 + 338 + 327 + 501 + 127 + 333
