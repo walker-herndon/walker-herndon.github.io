@@ -1,4 +1,4 @@
-**22/26 Read!** (13/16 Novels, 9/10 Other)
+**23/26 Read!** (14/16 Novels, 9/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
 - [x] Elantris
@@ -13,13 +13,13 @@ See [[TV Watchlist]] for TV list
 - [x] The Hero of Ages (#3)
 - [x] The Eleventh Metal (#1.5, Short Story)
 - [x] Secret History (#3.5 Novella)
-##### Era 2
+##### Era 2 - Wax & Wayne
 - [x] The Alloy of Law (#1)
 - [x] Allomancer Jak and the Pits of Eltania (#1.5, Short Story)
 - [x] Shadows of Self (#2)
 - [x] The Bands of Mourning (#3)
-- [ ] The Lost Metal (#4) **<-- Currently Reading**
-##### Era 3
+- [x] The Lost Metal (#4)
+##### Era 3 - Ghostbloods
 TBD (2025?)
 
 ----
@@ -43,16 +43,16 @@ TBD
 - [x] Sixth of the Dusk (Novella)
 - [ ] White Sand Omnibus
 - [x] Tress of the Emerald Sea (Secret Project #1)
-- [ ] Yumi and the Nightmare Painter (Secret Project #3)
+- [ ] Yumi and the Nightmare Painter (Secret Project #3) **<-- Currently Reading**
 - [ ] The Sunlit Man (Secret Project #4)
 
 ----
 
 #### Potential Future Reading Order
 *Non-novels indented*
-- The Lost Metal
 - Yumi and Nightmare Painter
 	- White Sand Omnibus? Might be good to read before Sunlit Man
 - The Sunlit Man
 
 - Wind and Truth
+
