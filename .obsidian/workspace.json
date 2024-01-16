@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS5055/Reading Notes/Week 1 Notes.md",
+                "file": "CS5042/Week 1 - Intro and Project Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS5055/Reading Notes/Week 2 Notes.md",
+                "file": "CS5055/Reading Notes/Week 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5055/Reading Notes/Week 1 Notes.md",
+                "file": "CS5042/Week 1 - Intro and Project Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5055/Reading Notes/Week 1 Notes.md",
+                "file": "CS5042/Week 1 - Intro and Project Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5055/Reading Notes/Week 1 Notes.md"
+                "file": "CS5042/Week 1 - Intro and Project Options.md"
               }
             }
           },
@@ -195,9 +195,12 @@
   },
   "active": "9d94101ad021a19c",
   "lastOpenFiles": [
-    "CS5055/Reading Notes/Week 2 Notes.md",
-    "CS5055/Reading Notes/Reading Notes.md",
     "CS5055/Reading Notes/Week 1 Notes.md",
+    "CS5055/Reading Notes/Week 2 Notes.md",
+    "CS5042/Week 1 - Intro and Project Options.md",
+    "images",
+    "CS5042",
+    "CS5055/Reading Notes/Reading Notes.md",
     "CS5199/Supervisor Meetings/Supervisor Meeting Minutes.md",
     "CS5055/Reading Notes",
     "CS5055/CS5055.md",
@@ -222,16 +225,12 @@
     "CS5199 copy/Matcher Documentation.md",
     "CS5199 copy/Kasim Diss Comments.md",
     "CS5199 copy/GPU PC Info.md",
-    "CS5199 copy/Diss Format Notes.md",
-    "CS5199 copy/Context Survey Format.md",
     "CS5199 copy",
-    "Pasted image 20240104174037.png",
+    "images/Pasted image 20240104174037.png",
     "CS5199",
     "Daily Notes",
     "CS5199/Supervisor Meetings",
     "style.css",
-    "ObsidianGitHub",
-    "walker-herndon.github.io/index.html",
     "anna-m.jpg"
   ]
 }
