@@ -1,6 +1,18 @@
+### Introduction to Interaction Design
 - Focus on the design process and not as much on the technical details and result
 - Seems to only go as far as creating a creating a design plan, CS5041 does more prototyping, design, and implementation
 - Pay more attention to the people using the system, not the system itself
+### Academic Issues and Admin
+- Almost no programming involved
+	- kind of up to us how much we want to do, just need some form of a prototype but that could just be something in Figma
+- Will be reading material for each week with a small quiz each week to ensure you've done the reading
+	- You are allowed to do the quizzes as a group and split the reading between everyone
+	- The quizzes are 16% of the overall grade (8 quizzes, 2% each)
+- Will be assigned groups of roughly 4-5 students
+- P1 due week 5 and is focused on conducting interviews for the project
+	- this is kind of foundational work so important to do well
+	
+![[CS5042-Schedule.pdf.png]]
 
 ### Project Presentations
 #### Acoustic Visualization
