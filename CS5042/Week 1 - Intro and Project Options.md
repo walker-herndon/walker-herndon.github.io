@@ -13,7 +13,8 @@
 	- this is kind of foundational work so important to do well
 	
 ![[CS5042-Schedule.pdf.png]]
-
+- Need a sketch book?
+	- It is considered required material, wonder if I can just use my iPad for this instead?
 ### Project Presentations
 #### Acoustic Visualization
 - Use remote sensors to record and detect animals
