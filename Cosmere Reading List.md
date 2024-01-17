@@ -1,4 +1,4 @@
-**23/26 Read!** (14/16 Novels, 9/10 Other)
+**24/26 Read!** (15/16 Novels, 9/10 Other)
 See [[TV Watchlist]] for TV list
 #### Elantris
 - [x] Elantris
@@ -43,16 +43,28 @@ TBD
 - [x] Sixth of the Dusk (Novella)
 - [ ] White Sand Omnibus
 - [x] Tress of the Emerald Sea (Secret Project #1)
-- [ ] Yumi and the Nightmare Painter (Secret Project #3) **<-- Currently Reading**
+- [x] Yumi and the Nightmare Painter (Secret Project #3)
 - [ ] The Sunlit Man (Secret Project #4)
 
 ----
 
 #### Potential Future Reading Order
-*Non-novels indented*
-- Yumi and Nightmare Painter
-	- White Sand Omnibus? Might be good to read before Sunlit Man
+- White Sand Omnibus?
 - The Sunlit Man
 
 - Wind and Truth
 
+### Ranking
+1. The Emperor's Soul
+2. Yumi and the Nightmare Painter
+3. Tress of the Emerald Sea
+4. The Hero of Ages
+5. Oathbringer
+
+
+| Tier | Books |
+| ---- | ---- |
+| S | The Emperor's Soul, Yumi and the Nightmare Painter, Tress of the Emerald Sea, The Hero of Ages, Oathbringer |
+| A | The Way of Kings, Words of Radiance, Shadows of Self, The Bands of Mourning, The Lost Metal, The Final Empire, Dawnshard, Warbreaker, Sixth of the Dusk, Shadows for Silence in the Forests of Hell, Secret History |
+| B | Rhythm of War, Edgedancer, Alloy of Law, The Well of Ascension, Allomancer Jak and the Pits of Eltania |
+| C | Elantris, The Hope of Elantris, The Eleventh Metal |

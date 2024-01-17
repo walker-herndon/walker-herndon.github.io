@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d42bf8cb113deac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmere Reading List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5199/Demo.md",
+                "file": "Cosmere Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5199/Demo.md",
+                "file": "Cosmere Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5199/Demo.md"
+                "file": "Cosmere Reading List.md"
               }
             }
           },
@@ -195,11 +207,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "002f97ef1a94dd25",
+  "active": "9d42bf8cb113deac",
   "lastOpenFiles": [
-    "CS5042/Week 1 - Intro and Project Options.md",
     "Home.md",
     "CS5199/Demo.md",
+    "CS5042/Week 1 - Intro and Project Options.md",
     "CS5042/CS5042 To-Do.md",
     "CS5199/Kasim Diss Comments.md",
     "CS5042/CS5042.md",
