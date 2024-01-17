@@ -1,3 +1,4 @@
+[[CS5042]]
 ### Introduction to Interaction Design
 - Focus on the design process and not as much on the technical details and result
 - Seems to only go as far as creating a creating a design plan, CS5041 does more prototyping, design, and implementation
