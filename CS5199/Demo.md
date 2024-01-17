@@ -4,7 +4,7 @@
 Go through whole presentation, discussing the background info on the project, problems with the tool and objectives, and results
 
 ### Demo
-1. Quickly show new README file to show the documentation
+1. Show new README file to show the documentation
 2. Show installation process by running the installation script
 3. Don't wait for it to finish, just say it would take a couple minutes then show another terminal tab with it completed
 4. Show how you would simply run `jupyter notebook` to then use the tool
