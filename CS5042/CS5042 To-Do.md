@@ -1,0 +1,2 @@
+- [ ] Week 1 readings
+- [ ] Get sketch pad?

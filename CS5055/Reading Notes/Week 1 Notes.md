@@ -45,3 +45,7 @@ A lot of this list is pretty bullshit and there isn't really a lot of depth in t
 SpaceX being on this list is super bizarre too, seems like the article is just being anti-Elon more than anything, but the reason the give for SpaceX is because their satellites had problems with being too reflective (which has now been fixed since this article was written), and apparently that point alone was enough to make them the 17th most evil company in the world????
 
 Rating: 1/5, this list is a complete joke.
+
+#### Europe v Facebook
+- Article is from europe-v-facebook.org and just covers the objectives of the case
+- 
