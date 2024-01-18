@@ -1,7 +1,5 @@
 ### Linear Algebra Review
-Scalar: $(11)$
-Vector: $\begin{matrix}[5 & 3 & 7]\end{matrix}$
-
-
+Too much math notation to write it all
+[slides](https://studres.cs.st-andrews.ac.uk/CS5014/Lectures/Week%201/Lecture02-linearalgebra.html)
 
 
