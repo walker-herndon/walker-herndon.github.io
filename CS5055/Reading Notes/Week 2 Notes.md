@@ -20,4 +20,5 @@ Rating: 3/5, was fine but don't feel like it was saying anything super significa
 [link](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf)
 - Gives an intro into what ethics means
 - Obviously because technology is such an important part of our lives, ethics is important to consider in tech
+- technology enables much more data collection and storage capabilities which makes data ethics important, especially because this data and what can be done with it can have significant impacts on peoples lives
 - 
