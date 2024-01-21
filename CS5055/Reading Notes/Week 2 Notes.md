@@ -11,4 +11,12 @@
 		- "The warm weather explains why it is raining instead of snowing" would be correct, but "the warm weather explains why it is raining instead of not precipitating" may not be
 		- Using contrastivism seems to incentivize being more precise with your meaning
 - Contrastivism can also be applied to ethics
+	- Applied to obligation, contrastivism says that what you ought to do depends on the alternatives
+	- It can also be applied to freedom and normative reasons
+- Seems very philosophical overall and don't really see how these ideas should be applied in practice
+Rating: 3/5, was fine but don't feel like it was saying anything super significant to me
+
+#### An Introduction to Data Ethics
+[link](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf)
+- Gives an intro into what ethics means
 - 
