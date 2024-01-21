@@ -1,4 +1,5 @@
 [[CS5055]]
+[Readings](https://rl.talis.com/3/sta/lists/C8984445-5B70-631C-0F0F-B03CDEDA1ED1.html)
 
 | Week | Notes |
 | ---- | ---- |

@@ -51,7 +51,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS5014/Week 1.md",
+                "file": "CS5055/Reading Notes/Week 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92076bc9a769f7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS5055/Reading Notes/Week 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5014/Week 1.md",
+                "file": "CS5055/Reading Notes/Week 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5014/Week 1.md",
+                "file": "CS5055/Reading Notes/Week 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5014/Week 1.md"
+                "file": "CS5055/Reading Notes/Week 2 Notes.md"
               }
             }
           },
@@ -197,8 +209,14 @@
   },
   "active": "0eba41ce88960a65",
   "lastOpenFiles": [
-    "Home.md",
+    "CS5055/Reading Notes/Week 1 Notes.md",
+    "CS5055/Reading Notes/Week 2 Notes.md",
+    "CS5055/Reading Notes/Reading Notes.md",
+    "CS5055/CS5055.md",
+    "CS5055/CS5055 To-Do.md",
+    "CS5199/GPU PC Info.md",
     "CS5014/Week 1.md",
+    "Home.md",
     "CS5014",
     "CS5042/Week 1 - Intro and Project Options.md",
     "CS5199/Demo.md",
@@ -206,11 +224,6 @@
     "Cosmere Reading List.md",
     "CS5199/Kasim Diss Comments.md",
     "CS5042/CS5042.md",
-    "CS5055/CS5055.md",
-    "CS5055/CS5055 To-Do.md",
-    "CS5055/Reading Notes/Week 2 Notes.md",
-    "CS5055/Reading Notes/Week 1 Notes.md",
-    "CS5055/Reading Notes/Reading Notes.md",
     "CS5199/Supervisor Meetings/Supervisor Meeting Minutes.md",
     "To-Do.md",
     "images/CS5042-Schedule.pdf.png",
@@ -229,7 +242,6 @@
     "CS5199 copy/Supervisor Meetings/Week 15 Meeting Minutes.md",
     "CS5199 copy/Supervisor Meetings/Week 14 Meeting Minutes.md",
     "CS5199 copy/Supervisor Meetings/Week 13 Meeting Minutes.md",
-    "CS5199 copy/Supervisor Meetings/Week 12 Meeting Minutes.md",
     "CS5199 copy/Supervisor Meetings",
     "CS5199 copy",
     "images/Pasted image 20240104174037.png",
