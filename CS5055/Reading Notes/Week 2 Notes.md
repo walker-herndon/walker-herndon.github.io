@@ -19,4 +19,5 @@ Rating: 3/5, was fine but don't feel like it was saying anything super significa
 #### An Introduction to Data Ethics
 [link](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf)
 - Gives an intro into what ethics means
+- Obviously because technology is such an important part of our lives, ethics is important to consider in tech
 - 
