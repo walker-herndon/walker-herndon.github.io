@@ -1,0 +1,24 @@
+[[CS5055]]
+- Meta-ethics
+	- Why act morally?
+		- egoism
+		- altruism
+		- rationalism
+		- feminism
+	- morality == ethics?
+- Normative ethics
+	- What are moral standards?
+	- One ultimate criterion of moral conduct
+		- e.g. the Golden Rule or sunlight test
+	- Virtues or duties/obligations (deontology)
+		- not doing things because you believe in them but because you are obligated to
+		- vs. consequentialism
+- Computers have evolved over time and data ethics has to be reframed as this evolution occurs
+	- In the 60s computers were huge and no one had their own, they'd be at universities and that sort of thing
+	- In the 80s people started getting PCs as computers became more affordable and portable
+	- In the 2000s the rise of the "information superhighway" (i.e. the internet) brought forth information ethics as significantly more information became available to people
+	- In the 2020s technology and data are used everywhere, for good and bad
+		- everywhere means they are pervasive and large-scale
+			- who has access to this data and are they making good ethical choices with it? Probably not
+- Surveillance during covid is a good case study for data ethics
+	- 
