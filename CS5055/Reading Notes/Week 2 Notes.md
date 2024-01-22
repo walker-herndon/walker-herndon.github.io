@@ -51,7 +51,16 @@ Rating: 3/5, was fine but don't feel like it was saying anything super significa
 				- vital to find a good balance between intellectual property rights and social transparency
 - Case Study:
 	- basically a couple gets rejected from a loan they should have been able to receive cause of an algorithm
-
+Rating: 5/5, solid introduction into the issue of data ethics and raised a lot of good areas of focus
 #### What is data ethics?
 [link](https://royalsocietypublishing-org.ezproxy.st-andrews.ac.uk/doi/10.1098/rsta.2016.0360)
-- 
+- Data is obviously super important and can have great impacts on the world, but this comes with great risk if ethical concerns are not addressed
+- It is important to find a good balance in regulation to ensure data rights are assured without restricting the ability to use data too far
+- Data ethics is an evolution of computer and information ethics which reduces the layers of abstraction from information-centric to data-centric
+- This shift is probably more semantic than conceptual, but it does put more emphasis on the important component of the ethical discussions
+- "Data ethics can be defined as the branch of ethics that studies and evaluates moral problems related to data, algorithms, and corresponding practices, in order to formulate and support morally good solutions."
+- The risks of data and important areas of focus for data ethics are listed, pretty much nothing that hasn't already been said
+- The ethics of algorithms and practices are each discussed and their key areas of focus are highlighted
+- The ethics of data, algorithms, and practices are all intertwined and it makes sense to distinguish all three, but discuss them all together as three axes of an ethical space
+	- No problem falls exactly in one of the categories, but somewhere in a mix of all three
+Rating: 5/5, another great introduction into the issue
