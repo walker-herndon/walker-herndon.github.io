@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd20bf3d07307f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmere Reading List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5055/Reading Notes/Week 3 Notes.md",
+                "file": "Cosmere Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5055/Reading Notes/Week 3 Notes.md",
+                "file": "Cosmere Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5055/Reading Notes/Week 3 Notes.md"
+                "file": "Cosmere Reading List.md"
               }
             }
           },
@@ -207,10 +219,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0eba41ce88960a65",
+  "active": "bd20bf3d07307f0a",
   "lastOpenFiles": [
-    "CS5055/Reading Notes/Reading Notes.md",
+    "Home.md",
     "CS5055/Reading Notes/Week 3 Notes.md",
+    "CS5055/Reading Notes/Reading Notes.md",
     "CS5055/Lecture Notes/Week 2.md",
     "CS5055/Lecture Notes",
     "CS5055/Reading Notes/Week 2 Notes.md",
@@ -219,7 +232,6 @@
     "CS5055/CS5055 To-Do.md",
     "CS5199/GPU PC Info.md",
     "CS5014/Week 1.md",
-    "Home.md",
     "CS5014",
     "CS5042/Week 1 - Intro and Project Options.md",
     "CS5199/Demo.md",
