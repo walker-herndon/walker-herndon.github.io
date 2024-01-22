@@ -21,4 +21,18 @@
 		- everywhere means they are pervasive and large-scale
 			- who has access to this data and are they making good ethical choices with it? Probably not
 - Surveillance during covid is a good case study for data ethics
-	- 
+	- made a big list of what we did, what the goods were, and what the harms were
+- more generally we can lay out a few benefits and harms of data collection
+	- benefits:
+		- human understanding
+		- social, institutional, and economic efficiency
+		- predictive accuracy and personalization
+	- harms:
+		- harms to privacy & security
+		- harms to fairness & justice
+		- harms to transparency & autonomy
+- can think about data in three axes (took notes on this in [[Week 2 Notes]])
+	- ethics of data
+	- ethics of algorithms
+	- ethics of practices
+- 
