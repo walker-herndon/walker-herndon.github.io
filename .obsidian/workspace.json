@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS5055/Lecture Notes/Week 2.md",
+                "file": "CS5055/Reading Notes/Week 3 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5055/Lecture Notes/Week 2.md",
+                "file": "CS5055/Reading Notes/Week 3 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5055/Lecture Notes/Week 2.md",
+                "file": "CS5055/Reading Notes/Week 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5055/Lecture Notes/Week 2.md"
+                "file": "CS5055/Reading Notes/Week 3 Notes.md"
               }
             }
           },
@@ -209,11 +209,12 @@
   },
   "active": "0eba41ce88960a65",
   "lastOpenFiles": [
+    "CS5055/Reading Notes/Reading Notes.md",
+    "CS5055/Reading Notes/Week 3 Notes.md",
+    "CS5055/Lecture Notes/Week 2.md",
     "CS5055/Lecture Notes",
     "CS5055/Reading Notes/Week 2 Notes.md",
-    "CS5055/Lecture Notes/Week 2.md",
     "CS5055/Reading Notes/Week 1 Notes.md",
-    "CS5055/Reading Notes/Reading Notes.md",
     "CS5055/CS5055.md",
     "CS5055/CS5055 To-Do.md",
     "CS5199/GPU PC Info.md",
@@ -247,7 +248,6 @@
     "images/Pasted image 20240104174037.png",
     "CS5199",
     "Daily Notes",
-    "CS5199/Supervisor Meetings",
     "anna-m.jpg"
   ]
 }
