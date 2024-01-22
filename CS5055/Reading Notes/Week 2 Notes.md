@@ -50,4 +50,8 @@ Rating: 3/5, was fine but don't feel like it was saying anything super significa
 			- the fact that data practices are often hidden behind proprietary software and trade secrets
 				- vital to find a good balance between intellectual property rights and social transparency
 - Case Study:
-	- 
+	- basically a couple gets rejected from a loan they should have been able to receive cause of an algorithm
+
+#### What is data ethics?
+[link](https://royalsocietypublishing-org.ezproxy.st-andrews.ac.uk/doi/10.1098/rsta.2016.0360)
+- 
