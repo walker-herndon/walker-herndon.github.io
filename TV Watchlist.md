@@ -1,21 +1,22 @@
 See [[Cosmere Reading List]] for book list
 #### TV Series
 ##### Watching
-| Show                      | Rating | Episodes Left |
-| ------------------------- | ------ | ------------- |
-| Derry Girls               | 8.5    | 5             |
-| Ahsoka                    | 7.7    | 4             |
-| Outlander                 | 8.4    | watched 1     |
-| Rick and Morty            | 9.1    | 17            |
-| Mr. Robot                 | 8.5    | watched 1     |
-| Euphoria                  | 8.3    | watched 1     |
-| The Legend of Korra       | 8.4    | 40            |
-| Outer Banks               | 7.5    | watched 5     |
-| Attack on Titan           | 9.0    | watched S1    |
-| Invincible                | 8.7    | 4             |
-| Loki                      | 8.2    | 6             |
-| The Marvelous Mrs. Maisel | 8.7    | watched 1     |
-| Blue Eye Samurai          | 8.8    | 4             | 
+| Show | Rating | Episodes Left |
+| ---- | ---- | ---- |
+| Derry Girls | 8.5 | 5 |
+| Ahsoka | 7.7 | 4 |
+| Outlander | 8.4 | watched 1 |
+| Rick and Morty | 9.1 | 17 |
+| Mr. Robot | 8.5 | watched 1 |
+| Euphoria | 8.3 | watched 1 |
+| The Legend of Korra | 8.4 | 40 |
+| Outer Banks | 7.5 | watched 5 |
+| Attack on Titan | 9.0 | watched S1 |
+| Invincible | 8.7 | 4 |
+| Loki | 8.2 | 6 |
+| The Marvelous Mrs. Maisel | 8.7 | watched 1 |
+| Blue Eye Samurai | 8.8 | 4 |
+| Big Little Lies | 8.4 | watched 1 |
 
 ##### To Watch
 | Show                              | Rating |

@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "TV Watchlist.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "TV Watchlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere Reading List.md",
+                "file": "TV Watchlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmere Reading List.md"
+                "file": "TV Watchlist.md"
               }
             }
           },
@@ -221,6 +221,7 @@
   },
   "active": "bd20bf3d07307f0a",
   "lastOpenFiles": [
+    "Cosmere Reading List.md",
     "Home.md",
     "CS5055/Reading Notes/Week 3 Notes.md",
     "CS5055/Reading Notes/Reading Notes.md",
@@ -236,7 +237,6 @@
     "CS5042/Week 1 - Intro and Project Options.md",
     "CS5199/Demo.md",
     "CS5042/CS5042 To-Do.md",
-    "Cosmere Reading List.md",
     "CS5199/Kasim Diss Comments.md",
     "CS5042/CS5042.md",
     "CS5199/Supervisor Meetings/Supervisor Meeting Minutes.md",
