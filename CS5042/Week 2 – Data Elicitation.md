@@ -1,0 +1,3 @@
+- There's often a big gap between what is happening in reality and how designers understand what is happening
+- Often when working with clients they have some problem they present you with but that's not what you need to solve—find the actual root problem and solve that
+- 
