@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5042/Week 1 – Intro and Project Options.md",
+                "file": "CS5055/Reading Notes/Week 3 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5042/Week 1 – Intro and Project Options.md",
+                "file": "CS5055/Reading Notes/Week 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5042/Week 1 – Intro and Project Options.md"
+                "file": "CS5055/Reading Notes/Week 3 Notes.md"
               }
             }
           },
@@ -231,10 +231,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a6e83cf466d59c73",
+  "active": "0eba41ce88960a65",
   "lastOpenFiles": [
-    "CS5042/Week 2 – Data Elicitation.md",
     "CS5042/Week 1 – Intro and Project Options.md",
+    "CS5042/Week 2 – Data Elicitation.md",
     "TV Watchlist.md",
     "Cosmere Reading List.md",
     "Home.md",

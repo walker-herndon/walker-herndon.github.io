@@ -27,7 +27,28 @@ To me, privacy means having the right to protecting and withholding "things" abo
 - privacy does have some amount of foundation in common law coming from intellectual and artistic property, which can be seen as a form of privacy
 - privacy also exists in the form of protecting people from sharing their own sentiments, no one can be forced to express their own thoughts (unless on the witness stand), and if thoughts are expressed people have the right to determine the extent in which they are shared (i.e. you have the right to determine the publishing of your own work, others cannot do so)
 	- copyright laws focus on ensuring the artist is given the profits from their work, but common law is what actually ensures they have the right to determine the publishing of the work, thus, the common law right is lost as soon as the work has been published
-- 
+- The paper talks a lot about previous cases regarding privacy and discusses many different angles of it. Interestingly, it uses a lot of British cases, so I guess all of the references to other cases aren't necessarily to supply legal precedent, but just to generally support the ideas being conveyed by the paper.
+- It concludes by establishing 6 key points on privacy which are believed to exist:
+	1. "The right to privacy does not prohibit any publication of matter which is of public or general interest."
+		- Basically saying if you are a politician or something you are giving up some of your right to privacy as the public has the right to know more things about you than a regular citizen
+	2. "The right to privacy does not prohibit the communication of any matter, though in its nature private, when the publication is made under circumstances which would render it a privileged communication according to the law of slander and libel."
+		- Basically saying that publications that would normally violate the right to privacy, but which are made in a court, legislative body, or something similar, would not breech the right to privacy.
+	3. "The law would probably not grant any redress for the invasion of privacy by oral publication in the absence of special damage."
+		- Free speech really gets in the way of this, saying that if someone simply speaks publicly about a private matter you have no grounds to say your right to privacy was breeched, unless it is slander which is a whole separate issue. Only way you'd have any legs to stand on is if there was significant tangible damage caused, which would be difficult without it just being slander.
+	4. "The right to privacy ceases upon the publication of the facts by the individual, or with his consent."
+		- If you publish some private information about yourself, it is no longer considered private and would not be a violation of your right to privacy for someone else to speak further on the matter.
+	5. "The truth of the matter published does not afford defense."
+		- In this case, we would be getting into the matter of slander and libel, but in the case of just the right to privacy, the truth of the publication has no bearing on the case.
+	6. "The absence of 'malice' in the publisher does not afford a defense."
+		- The same can be said for whether the act was malicious, it doesn't matter what the actual intent was, just whether or not privacy was breeched.
+- Remedies for an invasion of privacy are then given:
+	1. "An action of tort for damages in all cases. Even in the absence of special damages, substantial compensation could be allowed for injury to feelings as in the action of slander and libel."
+	2. "An injunction, in perhaps a very limited number of cases."
+
+I think (in my extremely unprofessional opinion) generally this paper goes a bit to far in what it believes is covered in the right to privacy and doesn't do much to highlight the idea that whatever you do in public spaces kind of just immediately takes away any right to privacy you have. People can film or take pictures of you as much as they want and do what they want with them because you are in public and therefore allow that to happen.
+
+Rating: 5/5, definitely understand why this is such a foundational paper on privacy
 #### A Taxonomy of Privacy
 [link](https://www.jstor.org/stable/40041279?origin=crossref)
+- The doozy—88 page paper...
 - 
