@@ -68,4 +68,9 @@ Rating: 5/5, definitely understand why this is such a foundational paper on priv
 	- for the most part, these activities are not inherently harmful, but become so if done without consent
 	- an important point to recognize though is that people can be really bad about assessing risks and giving consent when they actually should be
 		- for example, people will agree to give companies their data cause they just don't care and don't have a good understand of what the impact of that decision will be
-- 
+- the article argues privacy should be seen as an umbrella term for a family of issues, they all relate to one another but do not have one single common trait between them
+- because of the variety, the paper argues that if we can identify the different issues which exist within the family, we can be more precise with our language instead of just using the blanket term of "privacy" which can conflate different kinds of problems and cause confusion
+- some privacy problems don't cause any direct harm to an individual, and are referred to as "architectural" problems in the paper
+	- these problems cause more of a creation of risk that a person may be harmed in the future rather than causing harm directly
+	- can be seen as similar to environmental harms or pollution
+	- 
