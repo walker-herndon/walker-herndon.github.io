@@ -64,4 +64,8 @@ Rating: 5/5, definitely understand why this is such a foundational paper on priv
 	- "Appropriation, for the defendant's advantage, of the plaintiff's name or likeness."
 	- That 1960 paper was built off the 1890 "The Right to Privacy" paper
 	- As mentioned before, that paper only focused on tort but there is a constitutional right to privacy beyond that which stems from the 4th amendment amongst other things
+- This taxonomy is attempting to categorize these problematic activities related to privacy
+	- for the most part, these activities are not inherently harmful, but become so if done without consent
+	- an important point to recognize though is that people can be really bad about assessing risks and giving consent when they actually should be
+		- for example, people will agree to give companies their data cause they just don't care and don't have a good understand of what the impact of that decision will be
 - 
