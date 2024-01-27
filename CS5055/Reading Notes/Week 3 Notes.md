@@ -50,6 +50,7 @@ I think (in my extremely unprofessional opinion) generally this paper goes a bit
 Rating: 5/5, definitely understand why this is such a foundational paper on privacy
 #### A Taxonomy of Privacy
 [link](https://www.jstor.org/stable/40041279?origin=crossref)
+##### Introduction
 - The doozy—88 page paper...
 - References a paper from 1960 which only really covers privacy in terms of "tort law", meaning in cases of there being direct harms to other people
 - The idea of the paper is to level people's understanding of privacy. It calls it a "chameleon-like word" which can take many different meanings
@@ -76,4 +77,18 @@ Rating: 5/5, definitely understand why this is such a foundational paper on priv
 	- there are two different types of architectural problems:
 		- those that create a greater risk that the individual is harmed in the future, for example if a company takes your data it may may lead to identity fraud using that data in the future after a data leak
 		- those that generally upset the balance of social or institutional power, the example of surveillance is given, which can create a "chilling effect" where people become more afraid of certain activities because they are aware that they may face repercussions by the government who will be able to see what they are doing (e.g. speaking out against the government)
+- This paper overall lists 4 different groups of harmful activities:
+	- information collection
+	- information processing
+	- information dissemination
+	- invasion
+
+##### Information Collection
+###### Surveillance
+- The idea of a "Peeping Tom" dates all the way back to 1050 and many states have "Peeping Tom" laws today which dictate that people can't be spied on in their homes through windows or anything like that
+- Some states also prohibit two-way mirrors in certain areas (presumably public restrooms or locker rooms for example)
+- Wiretapping is another big issue in surveillance which was outlawed in many states and eventually made a federal crime
+	- these protections were extended further in 1968 and amended in 1986 to include other forms of electronic surveillance
+	- the protections ensure that wiretapping cannot be done without a warrant, meaning private parties cannot wiretap at all
+- What are the harms of surveillance?
 	- 
