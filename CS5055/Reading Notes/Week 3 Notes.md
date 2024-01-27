@@ -73,4 +73,7 @@ Rating: 5/5, definitely understand why this is such a foundational paper on priv
 - some privacy problems don't cause any direct harm to an individual, and are referred to as "architectural" problems in the paper
 	- these problems cause more of a creation of risk that a person may be harmed in the future rather than causing harm directly
 	- can be seen as similar to environmental harms or pollution
+	- there are two different types of architectural problems:
+		- those that create a greater risk that the individual is harmed in the future, for example if a company takes your data it may may lead to identity fraud using that data in the future after a data leak
+		- those that generally upset the balance of social or institutional power, the example of surveillance is given, which can create a "chilling effect" where people become more afraid of certain activities because they are aware that they may face repercussions by the government who will be able to see what they are doing (e.g. speaking out against the government)
 	- 
