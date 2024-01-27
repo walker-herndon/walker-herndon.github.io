@@ -51,4 +51,17 @@ Rating: 5/5, definitely understand why this is such a foundational paper on priv
 #### A Taxonomy of Privacy
 [link](https://www.jstor.org/stable/40041279?origin=crossref)
 - The doozy—88 page paper...
+- References a paper from 1960 which only really covers privacy in terms of "tort law", meaning in cases of there being direct harms to other people
+- The idea of the paper is to level people's understanding of privacy. It calls it a "chameleon-like word" which can take many different meanings
+- Privacy discussions appeal to our knee-jerk reaction to violations of it, if a company takes our data we instinctively hate it, but may struggle to articulate why the action was actually harmful to us
+	- i.e. why should our right to privacy actually be protected? What are we wanting to gain from this?
+	- On the other hand, the other side of the argument is easy to see—the company is clearly benefitting from it and is exercising their freedoms to perform these actions, making privacy difficult to fight for
+- page 481 lists out a variety of scenarios which are all seen as violations of privacy but have very different circumstances and should be distinguished from one another
+- The 1960 paper identified "four types of harmful activities redressed under the rubric of privacy":
+	- "Intrusion upon the plaintiff's seclusion or solitude, or into his private affairs."
+	- "Public disclosure of embarrassing facts about the plaintiff."
+	- "Publicity which places the plaintiff in a false light in the public eye."
+	- "Appropriation, for the defendant's advantage, of the plaintiff's name or likeness."
+	- That 1960 paper was built off the 1890 "The Right to Privacy" paper
+	- As mentioned before, that paper only focused on tort but there is a constitutional right to privacy beyond that which stems from the 4th amendment amongst other things
 - 
