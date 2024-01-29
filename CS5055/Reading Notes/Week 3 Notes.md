@@ -92,3 +92,28 @@ Rating: 5/5, definitely understand why this is such a foundational paper on priv
 	- the protections ensure that wiretapping cannot be done without a warrant, meaning private parties cannot wiretap at all
 - What are the harms of surveillance?
 	- 
+
+###### Interrogation
+- 
+
+##### Information Processing
+###### Aggregation
+###### Identification
+###### Insecurity
+###### Secondary Use
+###### Exclusion
+
+##### Information Dissemination
+###### Breach of Confidentiality
+###### Disclosure
+###### Exposure
+###### Increased Accessibility
+###### Blackmail
+###### Appropriation
+###### Distortion
+
+##### Invasion
+###### Intrusion
+###### Decisional Interference
+
+##### Conclusion
