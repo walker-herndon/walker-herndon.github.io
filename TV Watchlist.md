@@ -6,7 +6,7 @@ See [[Cosmere Reading List]] for book list
 | Derry Girls | 8.5 | 5 |
 | Ahsoka | 7.7 | 4 |
 | Outlander | 8.4 | watched 1 |
-| Rick and Morty | 9.1 | 17 |
+| Rick and Morty | 9.1 | 10 |
 | Mr. Robot | 8.5 | watched 1 |
 | Euphoria | 8.3 | watched 1 |
 | The Legend of Korra | 8.4 | 40 |
