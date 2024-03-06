@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "CS5055/CS5055-P1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "CS5055/CS5055-P1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "CS5055/CS5055-P1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "CS5055/CS5055-P1.md"
               }
             }
           },
@@ -158,20 +158,21 @@
   },
   "active": "c9c25bb0e87ccdbb",
   "lastOpenFiles": [
+    "CS5055/CS5055 To-Do.md",
+    "CS5055/CS5055-P1.md",
+    "CS5055/Reading Notes/Week 3 Notes.md",
+    "CS5055/Reading Notes/Week 2 Notes.md",
+    "Cosmere Reading List.md",
+    "Home.md",
     "CS5055/Reading Notes/Week 4 Notes.md",
     "CS5055/Reading Notes/Week 1 Notes.md",
-    "CS5055/Reading Notes/Week 3 Notes.md",
     "CS5042/Week 2 – Data Elicitation.md",
     "TV Watchlist.md",
     "CS5042/Week 1 – Intro and Project Options.md",
-    "Cosmere Reading List.md",
-    "Home.md",
     "CS5055/Reading Notes/Reading Notes.md",
     "CS5055/Lecture Notes/Week 2.md",
     "CS5055/Lecture Notes",
-    "CS5055/Reading Notes/Week 2 Notes.md",
     "CS5055/CS5055.md",
-    "CS5055/CS5055 To-Do.md",
     "CS5199/GPU PC Info.md",
     "CS5014/Week 1.md",
     "CS5014",
@@ -191,7 +192,6 @@
     "CS5199 copy/Supervisor Meetings/Week 8 Meeting Minutes.md",
     "CS5199 copy/Supervisor Meetings/Week 7 Meeting Minutes.md",
     "CS5199 copy/Supervisor Meetings/Week 6 Meeting Minutes.md",
-    "CS5199 copy/Supervisor Meetings/Week 5 Meeting Minutes.md",
     "CS5199 copy/Supervisor Meetings",
     "CS5199 copy",
     "images/Pasted image 20240104174037.png",
