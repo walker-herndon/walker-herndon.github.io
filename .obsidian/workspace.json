@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c45bb0e0584c1eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS5055/Reading Notes/Week 4 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS5055/CS5055-P1.md",
+                "file": "CS5055/Reading Notes/Week 4 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS5055/CS5055-P1.md",
+                "file": "CS5055/Reading Notes/Week 4 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS5055/CS5055-P1.md"
+                "file": "CS5055/Reading Notes/Week 4 Notes.md"
               }
             }
           },
@@ -156,11 +169,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c9c25bb0e87ccdbb",
+  "active": "c45bb0e0584c1eed",
   "lastOpenFiles": [
-    "CS5055/CS5055 To-Do.md",
-    "CS5055/CS5055-P1.md",
     "CS5055/Reading Notes/Week 3 Notes.md",
+    "CS5055/CS5055-P1.md",
+    "CS5055/CS5055 To-Do.md",
     "CS5055/Reading Notes/Week 2 Notes.md",
     "Cosmere Reading List.md",
     "Home.md",

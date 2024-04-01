@@ -1,0 +1,61 @@
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    padding: 6px;
+    font-size: 12px;
+    background: white;
+    border: 1px solid #aaa;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+}
+
+.chart-container {
+    display: flex;
+}
+
+.bar-chart {
+    flex: 1;
+}
+
+.area-chart {
+    flex: 1;
+}
+
+.mbti-table {
+    border-collapse: collapse;
+    width: 20%;
+    margin: 25px;
+    margin-left: 50px;
+}
+
+.mbti-cell {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+.mbti-row:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.serie:hover {
+    cursor: pointer;
+}
+
+.area:hover {
+    cursor: pointer;
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+p {
+    margin-left: 50px;
+    width: 1000px;
+    font: 1em sans-serif;
+    line-height: 1.3em;
+}

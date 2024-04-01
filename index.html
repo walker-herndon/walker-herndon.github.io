@@ -1,5 +1,89 @@
- 
-<script type="module" src="https://md-block.verou.me/md-block.js"></script>
-<html>
-    <md-block src="README.md" />
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8" />
+        <title>CS5044 P3</title>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" href="imgs/max.png" type="image/x-icon">
+    </head>
+
+    <body>
+        <h2>
+            How has the representation of MBTI Personality Types in movies changed over time,
+            and how has movie success evolved over that same period?
+        </h2>
+        <p>
+            The Myers-Briggs Type Indicator (MBTI) is a personality test that categorizes individuals into one of 16
+            personality types. To read more about MBTI personalities, visit to
+            <a href="https://www.16personalities.com/">www.16personalities.com</a>. In this project, we will explore the
+            representation of MBTI personality types in movies and how movie success has evolved over time. By selecting
+            a personality category from the table or bar chart, you can see an area chart on the right that shows the
+            distribution of personalities in that category over time. Selecting a specific personality type from the
+            area chart will then generate a scatter plot that shows all movies with a character of that personality type
+            and the movie's success measured by ROI. Hovering over a point in the scatter plot will display the movie's
+            title, the role, ROI, and rating.
+        </p>
+
+        <!-- Table of MBTI Personalities -->
+        <table class="mbti-table">
+            <tbody>
+                <tr class="mbti-row">
+                    <td class="mbti-cell"><strong>Analyst</strong></td>
+                    <td class="mbti-cell">INTJ</td>
+                    <td class="mbti-cell">INTP</td>
+                    <td class="mbti-cell">ENTP</td>
+                    <td class="mbti-cell">ENTJ</td>
+                </tr>
+                <tr class="mbti-row">
+                    <td class="mbti-cell"><strong>Defender</strong></td>
+                    <td class="mbti-cell">ISTJ</td>
+                    <td class="mbti-cell">ISFJ</td>
+                    <td class="mbti-cell">ESTJ</td>
+                    <td class="mbti-cell">ESFJ</td>
+                </tr>
+                <tr class="mbti-row">
+                    <td class="mbti-cell"><strong>Adventurer</strong></td>
+                    <td class="mbti-cell">ISTP</td>
+                    <td class="mbti-cell">ISFP</td>
+                    <td class="mbti-cell">ESTP</td>
+                    <td class="mbti-cell">ESFP</td>
+                </tr>
+                <tr class="mbti-row">
+                    <td class="mbti-cell"><strong>Diplomat</strong></td>
+                    <td class="mbti-cell">INFJ</td>
+                    <td class="mbti-cell">INFP</td>
+                    <td class="mbti-cell">ENFJ</td>
+                    <td class="mbti-cell">ENFP</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <div class="chart-container">
+            <table>
+                <tr>
+                    <td>
+                        <svg class="bar-chart" width="900" height="500"></svg>
+                    </td>
+                    <td>
+                        <svg class="area-chart" width="900" height="500"></svg>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <svg class="line-chart" width="900" height="500"></svg>
+                    </td>
+                    <td>
+                        <svg class="scatter-plot" width="900" height="500"></svg>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="tooltip" class="tooltip"></div>
+
+        <script src="script.js"></script>
+    </body>
+
 </html>
