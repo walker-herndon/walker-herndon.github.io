@@ -20,3 +20,5 @@
 	- The [national park on Mljet island](https://www.tripadvisor.com/Attraction_Review-g1501915-d548269-Reviews-Mljet_National_Park-Mljet_Island_Dubrovnik_Neretva_County_Dalmatia.html) looks beautiful, can do a boat trip through it
 	- Hvar is a town on an island of the same name that [looks really pretty](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa.cdn-hotels.com%2Fgdcs%2Fproduction64%2Fd1943%2F24e8c03a-2f2b-451f-a667-d65dd0be94b7.jpg&f=1&nofb=1&ipt=3f08a5c85af8fb5b78a102e367d7ef9df1065644857c011fe2e1a096b80d63dd&ipo=images)
 - One downside of Croatia is it doesn't really seem to be like an ideal beach destination. There are pretty beaches in pretty areas but they're all pretty rocky, not really any good sand anywhere and any good sandy beaches that do exist are going to be busy.
+
+Think I'll stop here and if we decide we want to do this we can turn it into a more concrete itinerary based on what people are most interested in
