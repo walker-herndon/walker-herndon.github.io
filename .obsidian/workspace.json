@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,8 +202,9 @@
   },
   "active": "296cdfd2fe419992",
   "lastOpenFiles": [
-    "CS.md",
+    "Home.md",
     "2025-03-13.md",
+    "CS.md",
     "README.md",
     "READ ME.pdf",
     "2025 Trip Planning.md",
@@ -226,7 +228,6 @@
     "imgs/max.png",
     "imgs/coin.png",
     "Christmas Gift.md",
-    "Home.md",
     "CS5055/CS5055-P1.md",
     "CS5055/CS5055 To-Do.md",
     "Cosmere Reading List.md",
