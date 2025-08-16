@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2df16c08f0f061",
+        "id": "9048a74f68a39361",
         "type": "tabs",
         "children": [
           {
-            "id": "cad92b3d42a8fa19",
+            "id": "3366b66d8538cb8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1e422781f45c2534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS"
-            }
-          },
-          {
-            "id": "296cdfd2fe419992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +171,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "296cdfd2fe419992",
+  "active": "3366b66d8538cb8b",
   "lastOpenFiles": [
-    "Home.md",
     "Notes.md",
+    "Home.md",
     "CS.md",
     "README.md",
     "READ ME.pdf",
